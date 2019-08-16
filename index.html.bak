@@ -1,0 +1,106 @@
+<html>
+<head>
+
+	<title>Andrew Bacon</title>
+
+
+</head>
+
+<body bgcolor = "#FFFFFF">
+
+<img src="images/prior's paradox.GIF">
+
+
+<p> I am an assistant professor at the University of Southern California. My main interests are in metaphysics, epistemology, the philosophy of language and philosophical logic. My most recent work focuses on issues relating to probabilities of conditionals, vagueness and the semantic paradoxes. I am currently writing a book on vagueness entitled "Vagueness and Thought".</p>
+
+<h3>Contact</h3>
+
+E-mail: ab(remove me)acon@usc.edu<br>
+Address: Andrew Bacon, Department of Philosophy, University of Southern California, 3709 Trousdale Parkway, Los Angeles, CA 90089<br>
+Office: 224 Stonier Hall
+
+<h3>Papers</h3>
+
+<p><a href="http://link.springer.com/article/10.1007%2Fs11098-013-0276-6">Giving Your Knowledge Half a Chance</a>. <em> Philosophical Studies</em>. Forthcoming. Penultimate draft: <a href="./papers/Giving Knowledge Half a Chance.pdf">PDF</a></p>
+
+
+<p><a href="http://link.springer.com/article/10.1007/s11245-013-9193-8">Paradoxes of Logical Equivalence and Identity</a>. <em>Topoi</em>. Forthcoming. Penultimate draft: <a href="./papers/Paradoxes of Logical Equivalence and Identity.pdf">PDF</a></p>
+
+<p><a href="./papers/Representing Counterparts.pdf">Representing Counterparts</a>. <em>The Australasian Journal of Logic</em>. Forthcoming</p>
+
+
+<p><a href="http://quod.lib.umich.edu/cgi/p/pod/dod-idx/quantificational-logic-and-empty-names.pdf?c=phimp;idno=3521354.0013.024">Quantificational Logic and Empty Names</a>. <em>Philosophers' Imprint</em>. Volume 13, Number 24, December 2013. <a href="./papers/Quantificational logic and empty names.pdf">PDF</a>.</p>
+
+<p><a href="http://projecteuclid.org/euclid.ndjfl/1355494525">A New Conditional for Naïve Truth Theory</a>. <em>Notre Dame Journal of Formal Logic</em>. Volume 54, Number 1 (2013), 87-104. Penultimate draft: <a href="./papers/A new conditional for naive truth theory.pdf">PDF</a></p> 
+
+<p><a href="http://link.springer.com/article/10.1007%2Fs11225-012-9373-3">Curry's Paradox and Omega-inconsistency</a>. <em>Studia Logica</em>. Volume 101, Issue 1, February 2013, pp 1-9. Penultimate draft: <a href="./papers/Curry's paradox and omega inconsistency.pdf">PDF</a></p>
+
+<p><a href="http://www.springerlink.com/content/65j124485x8310r5/">Non-classical Metatheory for Non-classical Logics</a>. <em>Journal of Philosophical Logic</em>. April 2013, Volume 42, Issue 2, pp 335-355. Penultimate draft <a href="./papers/Non-classical metatheories.pdf">PDF</a></p>
+
+<p><a href="http://dx.doi.org/10.1017/S1755020311000293">Non-wellfounded Mereology</a>. (with <a href="http://www.abdn.ac.uk/~dhp026/index.html">Aaron J. Cotnoir</a>) <em>The Review of Symbolic Logic</em>. Volume 5, Issue 02, June 2012,	 pp 187-204. Penultimate draft: <a href="./papers/NWFMereology.pdf">PDF</a>
+
+<p><a href="http://www.springerlink.com/content/37n7t126665kq015/">A Paradox for Supertask Decision Makers</a>. <em>Philosophical Studies: Volume 153, Issue 2 (2011), Page 307</em>. Penultimate draft: <a href="./papers/infinite puzzle.pdf">PDF</a> </p>
+
+<h3>In Progress</h3>
+
+<p>Vagueness and Thought. Book project with Oxford University Press.</p>
+
+
+<p><a href="./papers/Vagueness at every order.pdf">Vagueness at Every Order</a>. In progress.</p>
+
+<p><a href="./papers/Conditionals and probability.pdf">In Defence of a Naive Conditional Epistemology</a>. In progress.</p>
+
+<p><a href="./papers/A Contextualist Variant of Stalnaker's Thesis.pdf">Stalnaker's Thesis in Context</a>. In progress.</p>
+
+
+<p>Opaque Semantics. In progress.</p>
+
+<p><a href="./papers/KK principle.pdf">Stalnaker on the KK Principle</a>. No longer in progress.</p>
+
+
+<h3>Selected Talks</h3>
+
+
+<p>Quantificational Logic and Empty Names. <a href="./papers/Handout on Empty Names.pdf">Handout</a>. <em>USC, March 2013</em></p>
+	
+<p>In Defence of a Naive Conditional Epistemology. <a href="./papers/Handout on Conditionals.pdf">Handout</a>. <em>UC Irvine, January 2013. University of Barcelona, June 2013</em></p>
+
+<p>What A Revenge-Free Solution to the Semantic Paradoxes Can and Can't Look Like. <a href="./papers/Handout on Revenge.pdf">Handout</a>. <em>USC, January 2012. Brown, February. Yale, February 2012. Munich, March 2012</em></p>
+
+<p>Vagueness at Every Order. <a href="./papers/Vagueness at Every Order Handout.pdf">Handout</a>. <em>Barcelona, September 2010.</em></p>
+
+
+<h3>Curriculum Vitae</h3>
+
+
+<p><a href="./CV.pdf">CV</a></p>
+
+
+
+<!--<p><a href="./papers/B entails that a conjunction of determinate truths is determinate.pdf">B entails that a conjunction of determinate truths is determinate</a>.</p>-->
+
+
+
+
+
+
+<HR>
+<em>Last updated: March 2014</em>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37774192-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>
+</html>
