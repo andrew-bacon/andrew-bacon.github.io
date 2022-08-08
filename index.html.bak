@@ -120,9 +120,15 @@ Office: 224 Stonier Hall
 
 <blockquote>
 
-<p><a href="javascript:void(0);" onclick
-="return toggleMe('abstract1');toggleMe('abstract2');toggleMe('abstract3');toggleMe('abstract4');toggleMe('abstract5');toggleMe('abstract6');toggleMe('abstract7');toggleMe('abstract8');toggleMe('abstract9');toggleMe('abstract10');toggleMe('abstract11');toggleMe('abstract12');toggleMe('abstract13');toggleMe('abstract14');toggleMe('abstract15');toggleMe('abstract16');toggleMe('abstract17');toggleMe('abstract18');toggleMe('abstract19');toggleMe('abstract20');toggleMe('abstract21');toggleMe('abstract22');toggleMe('abstract23');toggleMe('abstract24');toggleMe('abstract25');toggleMe('abstract26');toggleMe('abstract27');toggleMe('abstract28');toggleMe('abstract29');toggleMe('abstract30')">[Expand abstracts]</a></span></font></p>
+<p><a href="javascript:toggleMe('abstract1');toggleMe('abstract2');toggleMe('abstract3');toggleMe('abstract4');toggleMe('abstract5');toggleMe('abstract6');toggleMe('abstract7');toggleMe('abstract8');toggleMe('abstract9');toggleMe('abstract10');toggleMe('abstract11');toggleMe('abstract12');toggleMe('abstract13');toggleMe('abstract14');toggleMe('abstract15');toggleMe('abstract16');toggleMe('abstract17');toggleMe('abstract18');toggleMe('abstract19');toggleMe('abstract20');toggleMe('abstract21');toggleMe('abstract22');toggleMe('abstract23');toggleMe('abstract24');toggleMe('abstract25');toggleMe('abstract26');toggleMe('abstract27');toggleMe('abstract28');toggleMe('abstract29');toggleMe('abstract30');toggleMe('abstract31')">[Expand abstracts]</a></span></font></p>
 
+
+<p><a href="./papers/A Case for Higher-order Metaphysics.pdf">A Case for Higher-order Metaphysics</a>. For <em>Higher-order Metaphysics</em>. Eds. Peter Fritz and Nicholas Jones<a href="./papers/A Case for Higher-order Metaphysics.pdf">Draft PDF</a></p>
+
+
+<blockquote id="abstract31" style="display:none">
+Higher-order logic augments first-order logic with devices that let us generalize into grammatical positions other than that of a singular term. Some recent metaphysicians have advocated for using these devices to raise and answer questions that bear on many traditional issues in philosophy. In contrast to these `higher-order metaphysicians', traditional metaphysics has often focused on parallel, but importantly different, questions concerning special sorts of abstract objects: propositions, properties and relations. The answers to the higher-order and the property-theoretic questions may coincide sometimes but will often come apart. I argue that when they do, the higher-order questions are closer to the metaphysical action and so it would be better for these debates to proceed in higher-order terms. 
+</blockquote>
 
 
 <p><a href="./papers/Actual Value.pdf">Actual Value in Decision Theory</a>. <em>Analysis</em>, Forthcoming. </a> <a href="javascript:void(0);" onclick
