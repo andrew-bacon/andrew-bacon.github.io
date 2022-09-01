@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.16)  1 SEP 2022 09:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.16)  1 SEP 2022 10:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -247,7 +247,7 @@ Here is how much of TeX's memory you used:
  21196 multiletter control sequences out of 15000+600000
  417670 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,62p,387b,217s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,62p,388b,217s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/ajbac/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmex10.pfb><C:/Users/ajbac/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ajbac/AppData/Local/Progra
@@ -259,7 +259,7 @@ jbac/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:
 fm10.pfb><C:/Users/ajbac/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/euler/eufm7.pfb><C:/Users/ajbac/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/fge/fgerm10.pfb>
-Output written on "beta grundgesetze.pdf" (1 page, 78701 bytes).
+Output written on "beta grundgesetze.pdf" (1 page, 78689 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
