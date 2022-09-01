@@ -5,6 +5,13 @@
 
 <STYLE>
 
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+
+
 BODY
    {
    padding-left: 100px;
@@ -16,17 +23,15 @@ BODY
 
 
 
-	.wrap {
-	width: 450px;
-}
 
-.wrap img {
+.flex img {
 float: right;
 }
 
-.wrap h1 {
+.flex h1 {
+width: 400px;
 float: left;
-font-size: 40px;
+font-size: 50px;
 }
 
 
@@ -59,13 +64,19 @@ return true;
 
 <body bgcolor = "#FFFFFF">
 
-<div class="wrap">
-  <h1>Andrew Bacon</h1>
- <img src="images/prior's paradox.GIF">
-<div style="clear: both;"></div>
- 
- 
+
+<div class="flex">
+  <p><h1>Andrew Bacon</h1></p>
+  <img src="images/beta.GIF" />
 </div>
+
+<!--
+<div class="wrap">
+  <p><h1>Andrew Bacon</h1></p>
+ <img src="images/betaYcombinator.GIF">
+<div style="clear: both;"></div>
+ -->
+ 
 
 <div>
 <p> I am an associate professor at the University of Southern California. My main interests are in metaphysics, epistemology, the philosophy of language and philosophical logic. I have recently completed a book on vagueness entitled "Vagueness and Thought", and I am presently writing a textbook on higher-order logic aimed at metaphysicians.</p>

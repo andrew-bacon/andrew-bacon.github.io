@@ -5,6 +5,13 @@
 
 <STYLE>
 
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+
+
 BODY
    {
    padding-left: 100px;
@@ -16,17 +23,15 @@ BODY
 
 
 
-	.wrap {
-	width: 450px;
-}
 
-.wrap img {
+.flex img {
 float: right;
 }
 
-.wrap h1 {
+.flex h1 {
+width: 450px;
 float: left;
-font-size: 40px;
+font-size: 50px;
 }
 
 
@@ -59,13 +64,19 @@ return true;
 
 <body bgcolor = "#FFFFFF">
 
-<div class="wrap">
-  <h1>Andrew Bacon</h1>
- <img src="images/prior's paradox.GIF">
-<div style="clear: both;"></div>
- 
- 
+
+<div class="flex">
+  <p><h1>Andrew Bacon</h1></p>
+  <img src="images/beta.GIF" />
 </div>
+
+<!--
+<div class="wrap">
+  <p><h1>Andrew Bacon</h1></p>
+ <img src="images/betaYcombinator.GIF">
+<div style="clear: both;"></div>
+ -->
+ 
 
 <div>
 <p> I am an associate professor at the University of Southern California. My main interests are in metaphysics, epistemology, the philosophy of language and philosophical logic. I have recently completed a book on vagueness entitled "Vagueness and Thought", and I am presently writing a textbook on higher-order logic aimed at metaphysicians.</p>
@@ -124,10 +135,10 @@ Office: 224 Stonier Hall
 
 
 <p><a href="./papers/A Theory of Structured Propositions.pdf">A Theory of Structured Propositions</a>. <em>Philosophical Review</em>. Forthcoming. <a href="javascript:void(0);" onclick
-="return toggleMe('abstract31')">[Abstract]</a>. <a href="./papers/A Theory of Structured Propositions.pdf">Draft PDF</a></p>
+="return toggleMe('abstract32')">[Abstract]</a>. <a href="./papers/A Theory of Structured Propositions.pdf">Draft PDF</a></p>
 
 
-<blockquote id="abstract31" style="display:none">
+<blockquote id="abstract32" style="display:none">
 Higher-order logic augments first-order logic with devices that let us generalize into grammatical positions other than that of a singular term. Some recent metaphysicians have advocated for using these devices to raise and answer questions that bear on many traditional issues in philosophy. In contrast to these `higher-order metaphysicians', traditional metaphysics has often focused on parallel, but importantly different, questions concerning special sorts of abstract objects: propositions, properties and relations. The answers to the higher-order and the property-theoretic questions may coincide sometimes but will often come apart. I argue that when they do, the higher-order questions are closer to the metaphysical action and so it would be better for these debates to proceed in higher-order terms. 
 </blockquote>
 

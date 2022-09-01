@@ -1,0 +1,112 @@
+
+%\documentclass[letter]{article}
+%\usepackage[utf8]{inputenc}
+%\usepackage{amsmath}
+%\usepackage{amssymb}
+%\usepackage{amsthm}
+%\usepackage[comma,authoryear]{natbib}
+%\usepackage[title]{appendix}
+%\usepackage{graphicx}
+%\usepackage{stmaryrd}
+%\usepackage{enumerate}
+%\usepackage{hyperref}
+%%\hypersetup{colorlinks=true}
+%\usepackage{comment}
+
+
+\documentclass{article}
+
+\title{Frege's proof of $\beta$}
+
+\author{Andrew Bacon}
+
+\date{}
+
+\usepackage{setspace}
+\usepackage{amsthm}
+\usepackage{latexsym}
+\usepackage{amssymb}
+\usepackage{yfonts}
+\usepackage{graphicx}
+\usepackage{stmaryrd}
+\usepackage{verbatim}
+
+\usepackage{fge}
+\usepackage{Grundgesetze}
+
+%\usepackage{fullpage}
+
+
+
+
+
+\DeclareSymbolFont{symbolsC}{U}{txsyc}{m}{n}
+\DeclareMathSymbol{\strictif}{\mathrel}{symbolsC}{74}
+\DeclareMathSymbol{\boxright}{\mathrel}{symbolsC}{128}
+
+%Theorem/Lemma/Definition/proof environment
+
+%\newenvironment{definition}[1][Definition]{\begin{trivlist}
+%\item[\hskip \labelsep {\bfseries #1}]}{\end{trivlist}}
+
+\newcounter{ThmCounter}
+\newcounter{DefCounter}
+\newcounter{ExCounter}
+\newcounter{RemCounter}
+\newcounter{LemCounter}
+%\newcounter{Counter}
+%\newcounter{ThmCounter}
+\newtheorem{theorem}[ThmCounter]{Theorem}
+\newtheorem{definition}[DefCounter]{Definition}
+\newtheorem{example}[ExCounter]{Example}
+\newtheorem{remark}[RemCounter]{Remark}
+\newtheorem{lemma}[ThmCounter]{Lemma}
+\newtheorem{corollary}[ThmCounter]{Corollary}
+\newtheorem{proposition}[ThmCounter]{Proposition}
+
+%Some nifty shortcuts
+\newcommand{\CPE}{\textsf{CP}$_\emptyset$}
+\newcommand{\CP}{\textsf{CP}}
+\newcommand{\rep}[1]{\langle #1\rangle}
+\newcommand{\g}[1]{\ulcorner #1\urcorner}
+\newcommand{\te}[1]{\begin{textequation} #1 \end{textequation}}
+\newcommand{\bul}[1]{\begin{itemize} \item #1 \end{itemize}} 
+\newcommand{\tel}[2]{\begin{textequation} #1 \label{#2}\end{textequation}}
+
+% TextEquation environment
+\newenvironment{textequation}
+{\begin{equation}%
+\begin{minipage}[t]{0.8\linewidth}}%
+{\end{minipage}%
+\end{equation}%
+\ignorespacesafterend}
+
+%TextEquations: for multiple text equations.
+
+\newenvironment{textequations}
+{\begin{eqnarray}\begin{minipage}[t]{0.8\linewidth}}
+{\end{minipage}\end{eqnarray}\ignorespacesafterend} 
+
+\newcommand\nexteq{\end{minipage}\\\begin{minipage}[t]{0.8\linewidth}} 
+\newcommand{\abs}{\spirituslenis}
+
+\bibliographystyle{plain}
+
+
+
+
+\begin{document}
+\maketitle
+
+$$f\GGbracket{\GGcontent\GGconditional{p}{q}}$$
+
+$$\GGjudge\GGconditional{\fgebackslash \abs{\alpha}\GGbracket{\GGnot\GGquant{\mathfrak g}\GGconditional{\abs{\epsilon}\Phi(\epsilon) = \abs{\epsilon}\mathfrak g(\epsilon}{\GGnot \mathfrak g(a)= \alpha}} = a \fgecap \abs{\alpha}\Phi(\alpha)}{\Phi(a) = a \fgecap \abs{\alpha}\Phi(\alpha)}$$
+
+$$\GGjudge\GGconditional{\abs{\alpha}((\abs{\epsilon}(\epsilon \fgecap (\epsilon \fgecap \alpha)))\fgecap (\abs{\epsilon}(\epsilon \fgecap (\epsilon \fgecap \alpha)))) = Y}{\GGconditional{a = \abs{\epsilon}(\GGnot \epsilon)}{a \fgecap Y = (a \fgecap Y)\fgecap a}}$$
+
+
+$$\GGnot\GGquant{\mathfrak a}\GGnot \mathfrak a = \mathfrak a \fgecap \abs{\epsilon}(\GGnot \epsilon)$$
+
+$$\fgebackslash \abs{\alpha}\GGbracket{\GGnot\GGquant{\mathfrak g}\GGconditional{\abs{\epsilon}\Phi(\epsilon) = \abs{\epsilon}\mathfrak g(\epsilon}{\GGnot \mathfrak g(a)= \alpha}} = a \fgecap \abs{\alpha}\Phi(\alpha)$$
+
+\end{document}
