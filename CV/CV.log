@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.16)  25 AUG 2022 11:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.16)  31 MAR 2023 14:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -985,18 +985,15 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 
 {C:/Users/ajbac/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [4] 
 [5] [6] (CV.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 7EAA46BA5402762FF6948E2B3DCF01FD;1262.
+(rerunfilecheck)             Checksum: F832732E8D5A1FB9F566FECB7EC144F6;1683.
  ) 
 Here is how much of TeX's memory you used:
- 26077 strings out of 478659
- 508349 string characters out of 2845920
- 816062 words of memory out of 3000000
- 43570 multiletter control sequences out of 15000+600000
- 468999 words of font info for 137 fonts, out of 8000000 for 9000
+ 26082 strings out of 478659
+ 508413 string characters out of 2845920
+ 815160 words of memory out of 3000000
+ 43572 multiletter control sequences out of 15000+600000
+ 469034 words of font info for 137 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,12n,122p,1001b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/ajbac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa
@@ -1010,9 +1007,9 @@ ams/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/ajbac/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/ajbac/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Users/ajbac/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/public/lm/lmsso12.pfb>
-Output written on CV.pdf (6 pages, 187038 bytes).
+Output written on CV.pdf (6 pages, 190801 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
- 34917 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 137 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 34941 words of extra memory for PDF output out of 35830 (max. 10000000)
 
