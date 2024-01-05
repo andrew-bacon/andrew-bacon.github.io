@@ -7,7 +7,7 @@ Tuesdays and Thursdays 12.30-1:50pm. GFS 101
 
 ## Contact
 
-| Andrew Bacon (Professor) | office: 224 STO | email: abacon@usc.edu | in person office hours: Tuesdays 2-3 | [zoom](https://usc.zoom.us/s/3587631632) office hours: Wednesday 9-10 |
+| Andrew Bacon (Professor) | office: 224 STO | [email](abacon@usc.edu) | in person office hours: Tuesdays 2-3 | [zoom](https://usc.zoom.us/s/3587631632) office hours: Wednesday 9-10 |
 
 | Jin Zeng (TA) | email: jinzeng@usc.edu | office hours: TBA |
 
@@ -31,7 +31,7 @@ although understanding of this material is not necessary for the course.
 
 ## Links
 
- [dropbox](https://www.dropbox.com/sh/6u0vm12df56bbd8/AAAxy3gtJWdJntp4NLS-akAha?dl=0) 
+| [dropbox](https://www.dropbox.com/sh/6u0vm12df56bbd8/AAAxy3gtJWdJntp4NLS-akAha?dl=0) | [guidelines for writing a paper proposal](./guidlines) | [paper prompts](./Paper Prompts) |
 
 ## Course description
 
@@ -50,7 +50,8 @@ Objectives: Students taking this course will acquire a qualitative understanding
 
 - Paper proposal 10%. (Due March 8th).
 
-	- Choose a topic from a list of prompts (or, under advisement, choose your own), do some independent research on that topic, and present a proposal to your TA for feedback.
+	- Choose a topic from the following list of [prompts](./Paper Prompts) (or, under advisement, choose your own), do some independent research on that topic, and present a proposal to your TA for feedback.
+	- [Guidelines](./guidlines)
 
 - First draft of paper 30%. (Due April 1st.)
 
@@ -77,7 +78,7 @@ This is a preliminary schedule -- the topics listed here are subject to change (
 
 1. Introduction to geometry. Representations of space-time: coordinates and space-time diagrams. (Reading: selection from Euclid's *Elements*)
 
-2. Relationism and Substantivalism: Handedness (Reading: Jim Van Cleve, *Left, Right, and the Fourth Dimension*. )
+2. Relationism and Substantivalism: Handedness (Reading: Immanuel Kant, *On the first ground of the distinction of regions of space*, Jim Van Cleve, *Left, Right, and the Fourth Dimension*. )
 	
 3. Relationism and Substantivalism: Newton's theory of space and time. (Reading: Historical background: selections from the Leibniz-Clarke correspondence: for the principle of sufficient reason, Leibniz's second letter to Clark section 1, Clark's second reply, section 1. Leibniz's third letter to Clark section 1-section 7, paying special attention to section 5 and section 6 . Maudlin chapter 1. )
 	
