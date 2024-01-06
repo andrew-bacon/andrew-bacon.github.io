@@ -31,7 +31,7 @@ although understanding of this material is not necessary for the course.
 
 ## Links
 
-| [dropbox](https://www.dropbox.com/sh/6u0vm12df56bbd8/AAAxy3gtJWdJntp4NLS-akAha?dl=0) | [guidelines for writing a paper proposal](./guidlines) | [paper prompts](./Paper Prompts) |
+| [dropbox](https://www.dropbox.com/sh/6u0vm12df56bbd8/AAAxy3gtJWdJntp4NLS-akAha?dl=0) | [guidelines for writing a paper proposal](./guidelines) | [paper prompts](./Paper Prompts) |
 
 ## Course description
 
