@@ -1,5 +1,4 @@
 
-
 # PHIL 452: Modal Logic
 
 ## Time and place
@@ -27,7 +26,7 @@ NB: the first book uses the symbol *L* for $\Box$ and *M* for $\Diamond$.
 
 ## Course description
 
-Modal logic is the study of the logical behaviour of modalities, often expressed by words like *necessarily* and *possibly*. Modal logic finds applications in all areas of philosophy: in metaphysics in the study of modality, time and laws; in the philosophy of language in the study of vagueness, conditionals and modals; in epistemology in the study of knowledge and belief, and in ethics in the form of deontic logic. Modalities of different sorts appear to be governed by a common logic, called **K**, and specific modalities may possibly be governed by further principles. In this course you will learn how to represent modalities in a formal system in which their logical properties can be formalized and studied. In the first part of the course we will look at how modalities interact with other logical words---the truth functional connectives and the quantifiers---and we will study their proof theory and model theory. In the second part of the course we will look at some philosophical applications of modal logics.
+Modal logic is the study of the logical behaviour of modalities--notions expressed by words like *necessarily* and *possibly*. Modal logic finds applications in all areas of philosophy: in metaphysics in the study of modality, time and laws; in the philosophy of language in the study of vagueness, conditionals and modals; in epistemology in the study of knowledge and belief, and in ethics in the form of deontic logic. Modalities of different sorts appear to be governed by a common logic, called **K**, and specific modalities may possibly be governed by further principles. In this course you will learn how to represent modalities in a formal system in which their logical properties can be formalized and studied. In the first part of the course we will look at how modalities interact with other logical words---the truth functional connectives and the quantifiers---and we will study their proof theory and model theory. In the second part of the course we will look at some philosophical applications of modal logics.
 
 
 ## Prerequisites
@@ -47,7 +46,6 @@ PHIL 350, PHIL 222. You should be familiar with propositional logic, and have ex
 	
 - Final Project: 5% + 25%
 	- Proposal: 5%. Due April 9.
-	
 		Submit a detailed proposal of what you intend to do your final project on.
 
 	- Final project: 25%. Due April 31.

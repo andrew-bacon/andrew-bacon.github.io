@@ -31,7 +31,7 @@ although understanding of this material is not necessary for the course.
 
 ## Links
 
-| [dropbox](https://www.dropbox.com/sh/6u0vm12df56bbd8/AAAxy3gtJWdJntp4NLS-akAha?dl=0) | [guidelines for writing a paper proposal](./guidelines) | [paper prompts](./Paper Prompts) |
+| [dropbox](https://www.dropbox.com/sh/6u0vm12df56bbd8/AAAxy3gtJWdJntp4NLS-akAha?dl=0) | [guidelines for writing a paper proposal](./guidlines) | [paper prompts](./Paper%20Prompts) |
 
 ## Course description
 
@@ -44,24 +44,23 @@ Objectives: Students taking this course will acquire a qualitative understanding
 
  You will be assessed on the basis of reading questions (one question set every one or two weeks, pass fail), a writing assignment, a quiz and section participation. The writing assignments will consist of a single paper, to be developed over the semester through workshops and presentations in sections.
 
-- Comprehension questions 15% 
-
+- Comprehension questions 25% 
 	- A pass fail question on the material, frequency TBD (expect between every week to every other week).
 
-- Paper proposal 10%. (Due March 8th).
+- First paper 25%. 
+	- Proposal. 5% (Due March 8th)
+		- Choose a topic from the following list of [prompts](./Paper%20Prompts) (or, under advisement, choose your own), do some independent research on that topic, and present a proposal to your TA for feedback.
+		- [Guidelines](./guidelines)
+	- Paper. 20% (Due March 26).
+		- You will write a draft of your paper and arrange a meeting with your TA for feedback. 
 
-	- Choose a topic from the following list of [prompts](./Paper Prompts) (or, under advisement, choose your own), do some independent research on that topic, and present a proposal to your TA for feedback.
-	- [Guidelines](./guidlines)
+- Second paper 25%. .
+	- Proposal. 5% (Due April 1st)
+		- As above.
+	- The final draft of your paper. 20% (Due April 26th)
+		- As above.
 
-- First draft of paper 30%. (Due April 1st.)
-
-	- You will write a first draft of your paper and arrange a meeting with your TA for feedback.
-
-- Final draft of paper 20%. (Due April 26th).
-
-	-  The final draft of your paper. You will not receive feedback on this. Your grade will partly depend on the extent to which you incorporated previous feedback.
-
-- End of semester quiz 10% . (April 27th, in class)
+- End of semester quiz 10% . (April 25th, in class)
 
 	- A multiple choice quiz.
 
@@ -75,6 +74,8 @@ Objectives: Students taking this course will acquire a qualitative understanding
 ## Schedule
 
 This is a preliminary schedule -- the topics listed here are subject to change (some of these topics will extend over more than one week). 
+
+I will be out of town Feb 22nd.
 
 1. Introduction to geometry. Representations of space-time: coordinates and space-time diagrams. (Reading: selection from Euclid's *Elements*)
 
