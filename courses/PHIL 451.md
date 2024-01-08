@@ -22,7 +22,7 @@ Tuesdays and Thursdays 9:30-10:50. DMC 203
 Higher-order languages expand the language of first-order logic by allowing generalizations into grammatical positions other than that of singular terms. They have found numerous applications in philosophy, computer science, mathematics and linguistics. This course introduces students to higher-order languages, their proof and model theory, and their applications.
 
 
-**Objectives**: In this course students will learn to be proficient with the $\lambda$ notation; to formulate ideas in higher-order languages and to reason from them; how to build theories stated in higher-order languages and to use models to probe their consequences; about the philosophical applications of higher-order languages.
+**Objectives**: In this course students will learn to be proficient with the λ notation; to formulate ideas in higher-order languages and to reason from them; how to build theories stated in higher-order languages and to use models to probe their consequences; about the philosophical applications of higher-order languages.
 
 
 
@@ -61,10 +61,10 @@ PHIL 350, PHIL 222. The prerequisites may be waived if the student can demonstra
 	- Reading: Chapter 1.
 	
 - **Week 3**. An informal introduction to abstraction.
-	- Definitions by abstraction, $\lambda$-notation, Currying.
+	- Definitions by abstraction, λ-notation, Currying.
 
-- **Weeks 4, 5**. $\lambda$-languages. 
-	- $\lambda$-languages, combinators, $\alpha$, $\beta$ and $\eta$-equivalence, translations between $\lambda$-languages and combinatory languages.
+- **Weeks 4, 5**. λ-languages. 
+	- λ-languages, combinators, α, β, and η-equivalence, translations between λ-languages and combinatory languages.
 	- Reading: Chapter 3.
 
 - **Weeks 6, 7**. Higher-order languages and higher-order logics. 
@@ -79,12 +79,12 @@ PHIL 350, PHIL 222. The prerequisites may be waived if the student can demonstra
 	- Higher-order logic and its relation to modal logic, discussion of topics in the philosophy of modality.
 	- Reading: Chapter 7 and 8. Selection from Williamson *Modal Logic as Metaphysics*.
 
-- **Week 11**. General $\lambda$-languages. 
-	- General $\lambda$-languages and motivations for studying them, Curry typing. 
+- **Week 11**. General λ-languages. 
+	- General λ-languages and motivations for studying them, Curry typing. 
 	- Reading: Chapter 9 and 10.
 
-- **Weeks 12, 13**. Structure. 
-	- The Russell-Myhill paradox, philosophical applications
+- **Weeks 12, 13**. Applications for propositional structure. 
+	- Philosophical applications to structured theories, the Russell-Myhill paradox, converse relations.
 	- Reading: Chapters 11-13.
 	
 - **Week 14**. Applicative structures. 
