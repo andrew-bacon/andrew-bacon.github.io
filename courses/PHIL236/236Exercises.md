@@ -1,4 +1,5 @@
 # PHIL 236
+
 # Exercises and reading
 
 ## Topic 1
@@ -12,8 +13,6 @@ For Tuesday 15th January.
 From Book I, read Definitions, Postulates and Common Notions, Propositions 1-3.
 
 ### Questions (Monday 15th January.)
-
-Due 
 
 Using the notions of congruence, betweenness and point, and the definition of a region as a collection of points, define the following notions.
 

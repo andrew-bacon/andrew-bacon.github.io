@@ -22,7 +22,7 @@ NB: the first book uses the symbol *L* for $\Box$ and *M* for $\Diamond$.
 
 ## Links
 
-| [dropbox](https://www.dropbox.com/scl/fo/mg0651llx9uddmbvr93z4/h?rlkey=ksk55vsiahppdzt0ynh4odmbh&dl=0) | [signup sheet](https://docs.google.com/spreadsheets/d/10DAJ2HGG18I3qAt6Rv3DHMP9vQDyHGQjuJmUtjGOOSg/edit?usp=sharing) | [notes](https://modal-logic.gabrieluzquiano.org/) |
+| [dropbox](https://www.dropbox.com/scl/fo/mg0651llx9uddmbvr93z4/h?rlkey=ksk55vsiahppdzt0ynh4odmbh&dl=0) | [signup sheet](https://docs.google.com/spreadsheets/d/10DAJ2HGG18I3qAt6Rv3DHMP9vQDyHGQjuJmUtjGOOSg/edit?usp=sharing) | [notes](https://modal-logic.gabrieluzquiano.org/) | [exercises](./452exercises)
 
 ## Course description
 
