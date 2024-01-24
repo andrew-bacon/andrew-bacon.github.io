@@ -22,7 +22,7 @@ Tuesdays and Thursdays 9:30-10:50. DMC 203
 Higher-order languages expand the language of first-order logic by allowing generalizations into grammatical positions other than that of singular terms. They have found numerous applications in philosophy, computer science, mathematics and linguistics. This course introduces students to higher-order languages, their proof and model theory, and their applications.
 
 
-**Objectives**: In this course students will learn to be proficient with the λ notation; to formulate ideas in higher-order languages and to reason from them; how to build theories stated in higher-order languages and to use models to probe their consequences; about the philosophical applications of higher-order languages.
+**Objectives**: In this course students will learn to be proficient with the $\lambda$ notation; to formulate ideas in higher-order languages and to reason from them; how to build theories stated in higher-order languages and to use models to probe their consequences; about the philosophical applications of higher-order languages.
 
 
 
@@ -34,11 +34,16 @@ PHIL 350, PHIL 222. The prerequisites may be waived if the student can demonstra
 
 - Participation: 20%
 	- Contribute to class discussion. Be prepared to answer questions if called upon, and to raise your hand if you do not understand something. You are collectively responsible for setting the pace of the class, and clarificatory questions. 5\% 
-	- You will present a solution to an exercise of your choice on the board. The signup sheet for these presentations can be found [here](https://docs.google.com/spreadsheets/d/10DAJ2HGG18I3qAt6Rv3DHMP9vQDyHGQjuJmUtjGOOSg/edit?usp=sharing). Once you have signed up for an exercise please do not sign up again until everyone in the class has had a chance to present. 15%.
+	- Every week, three students will present a solution to an exercise of their choice on the board. The signup sheet for these presentations can be found [here](https://docs.google.com/spreadsheets/d/10DAJ2HGG18I3qAt6Rv3DHMP9vQDyHGQjuJmUtjGOOSg/edit?usp=sharing). Once you have signed up for an exercise please do not sign up again until we have made a full cycle of the class. 15%.
 
 - Exercises 50\%
 	
-	- Weekly exercises will be graded on a pass fail basis, and must be submitted before we discuss them in class.
+	- Weekly exercises will be graded on a pass fail basis, and must be submitted by Tuesdays 9:30, before we discuss them in class.
+	
+		A pass does not necessarily mean your answer is correct: it means that you have engaged seriously with the question, and that you can explain your strategy and any difficulties you encountered. Correct answers will be discussed in class.
+	
+	- Exercises must be uploaded to blackboard. Submissions normally consist of photos of handwritten solutions; LaTeX or other software for typesetting logical symbols can be used but is not necessary.
+	- Grades will be released before the following exercises are due.
 	- If you can provide a reason that you will not complete the exercises by the deadline, let me know *in advance*, and we can discuss an extension.
 	
 - Final Project: 5% + 25%
@@ -46,7 +51,8 @@ PHIL 350, PHIL 222. The prerequisites may be waived if the student can demonstra
 	
 		Submit a detailed proposal of what you intend to do your final project on.
 
-	- Final project: 25%. Due April 31.
+	- Final project: 25%. Due April 30th. (Grades released: May 7th).
+
 
 
 ## Schedule
@@ -61,10 +67,10 @@ PHIL 350, PHIL 222. The prerequisites may be waived if the student can demonstra
 	- Reading: Chapter 1.
 	
 - **Week 3**. An informal introduction to abstraction.
-	- Definitions by abstraction, λ-notation, Currying.
+	- Definitions by abstraction, $\lambda$-notation, Currying.
 
-- **Weeks 4, 5**. λ-languages. 
-	- λ-languages, combinators, α, β, and η-equivalence, translations between λ-languages and combinatory languages.
+- **Weeks 4, 5**. $\lambda$-languages. 
+	- $\lambda$-languages, combinators, $\alpha$, $\beta$, and $\eta$-equivalence, translations between $\lambda$-languages and combinatory languages.
 	- Reading: Chapter 3.
 
 - **Weeks 6, 7**. Higher-order languages and higher-order logics. 
@@ -79,8 +85,8 @@ PHIL 350, PHIL 222. The prerequisites may be waived if the student can demonstra
 	- Higher-order logic and its relation to modal logic, discussion of topics in the philosophy of modality.
 	- Reading: Chapter 7 and 8. Selection from Williamson *Modal Logic as Metaphysics*.
 
-- **Week 11**. General λ-languages. 
-	- General λ-languages and motivations for studying them, Curry typing. 
+- **Week 11**. General $\lambda$-languages. 
+	- General $\lambda$-languages and motivations for studying them, Curry typing. 
 	- Reading: Chapter 9 and 10.
 
 - **Weeks 12, 13**. Applications for propositional structure. 
@@ -99,11 +105,29 @@ PHIL 350, PHIL 222. The prerequisites may be waived if the student can demonstra
 	- Logical relations, categories.
 	- Reading: Chapters 16-18.
 
+## Classroom norms
+
+Please come to class ready to learn, and prepared to engage in class discussions. Clarificatory questions are always appreciated, and can be helpful to your classmates. Be constructive in your interactions with other students, and try when possible to help each other out.
+
+Laptops, phones and other distractions must be out of sight during class. I encourage students to take handwritten notes; if you have a special reason to use an electronic device contact me about it.
+
+
+
 ## Statement on academic conduct and support services
 
 ### Academic Conduct
 
-Plagiarism - presenting someone else's ideas as your own, either verbatim or recast in your own words - is a serious academic offense with serious consequences. Please familiarize yourself with the discussion of plagiarism in SCampus in Part B, Section 11, Behavior Violating University Standards. Other forms of academic dishonesty are equally unacceptable. See additional information in SCampus and university policies on scientific misconduct.
+The University of Southern California is foremost a learning community committed to fostering successful scholars and researchers dedicated to the pursuit of knowledge and the transmission of ideas. Academic misconduct is in contrast to the university’s mission to educate students through a broad array of first-rank academic, professional, and extracurricular programs and includes any act of dishonesty in the submission of academic work (either in draft or final form).
+
+This course will follow the expectations for academic integrity as stated in the USC Student Handbook. All students are expected to submit assignments that are original work and prepared specifically for the course/section in this academic term. You may not submit work written by others or “recycle” work prepared for other courses without obtaining written permission from the instructor(s). Students suspected of engaging in academic misconduct will be reported to the Office of Academic Integrity.
+
+Other violations of academic misconduct include, but are not limited to, cheating, plagiarism, fabrication (e.g., falsifying data), knowingly assisting others in acts of academic dishonesty, and any act that gains or is intended to gain an unfair academic advantage.
+
+The impact of academic dishonesty is far-reaching and is considered a serious offense against the university and could result in outcomes such as failure on the assignment, failure in the course, suspension, or even expulsion from the university.
+
+For more information about academic integrity see the student handbook or the Office of Academic Integrity’s website, and university policies on Research and Scholarship Misconduct.
+
+
 
 ### Support Systems
 
