@@ -53,7 +53,7 @@ Using the notions of congruence, betweenness and point, and the definition of a 
 
 2. In Euclidean geometry, do you think it is possible to define the relation of $x$ being 1 meter from $y$ using congruence and betweenness? Explain your answer either way.
 
-3. Can you define the primitive of Kantian geometry --- $w$ is on the left of the plane defined by $xyz$ --- using only congruence and betweenness. Using justify your answer.
+3. Can you define the primitive of Kantian geometry --- $w$ is on the left of the plane defined by $xyz$ --- using only congruence and betweenness. Justify your answer.
 
 ## Topic 3: Mathematical representations of space
 
