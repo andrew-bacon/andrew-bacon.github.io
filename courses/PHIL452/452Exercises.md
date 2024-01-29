@@ -40,7 +40,9 @@ Draw a possible worlds diagram in which the inference fails: in which there is a
 
 
 1. Consider the language $\mathcal{L}(\neg, \wedge)$. Define, by recursion, a function $v:\mathcal{L}(\neg, \wedge) \to \\{0,1\\}$ that 
+
     (i) "makes the sentence letters true": v(P)=1 for each letter P
+	
 	(ii) is a valuation valuation for this language: $v(\neg A) = 1-v(A)$ and $v(A\wedge B) = \min (v(A), v(B))$.
 
 2. Prove by induction that the function you defined in question 1 is indeed a valuation.
