@@ -1,3 +1,9 @@
+<head>
+<script type="text/javascript" charset="utf-8" 
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
+https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
+</head>
+
 # PHIL 236
 
 # Exercises and reading
@@ -38,3 +44,23 @@ Using the notions of congruence, betweenness and point, and the definition of a 
 4. Three points, xyz, forming a right angle (with y at the angle).
 
 5. Parallel lines.
+
+## Topic 2: Non-Euclidean Geometry (Due Monday 5th February)
+
+### Exercises
+
+1. Let us say that three balls in ordinary Euclidean space are "right angled" iff their centres are at right angles. Does this notion make sense in a (non-Euclidean) pointless geometry, where there are no points, and thus no centres? Justify your answer: you may appeal to things we defined in class.
+
+2. In Euclidean geometry, do you think it is possible to define the relation of $x$ being 1 meter from $y$ using congruence and betweenness? Explain your answer either way.
+
+3. Can you define the primitive of Kantian geometry --- $w$ is on the left of the plane defined by $xyz$ --- using only congruence and betweenness. Using justify your answer.
+
+## Topic 3: Mathematical representations of space
+
+### Reading 
+
+Watch [youtube video on Pythagoras' theorem](https://youtu.be/8vHO-tFx3K0?si=5efJiA-Nzy_mYh9-)
+
+Chapter 1 of Maudlin. 
+
+### Exercises 
