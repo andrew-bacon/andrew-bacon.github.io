@@ -4,6 +4,10 @@ src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLor
 https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 </head>
 
+# Disclaimer
+
+To students using these notes to catch up on missed material: these notes are not official  notes for the course, they are notes I use for myself to teach from and are not designed for students. They are in no way a substitute for the lectures.
+
 # Euclidean Geometry
 
 We'll begin our study of space by examining the oldest theory of space:
