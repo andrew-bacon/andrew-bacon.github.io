@@ -50,9 +50,11 @@ Draw a possible worlds diagram in which the inference fails: in which there is a
 3. Suppose that $v$ and $u$ are valuations for this language, and that for every letter, $P$, $v(P)=u(P)$. Prove by induction that $v=u$: that is for every sentence $A$, $v(A)=u(A)$.
 
 4. Given a Kripke frame, $(W,R)$, a valuation for the modal language $\mathcal{L}(\neg, \wedge, \Box)$ is a function $v:\mathcal{L}\times W \to \\{0,1\\}$ such that
-    (i) $v(A\wedge B, w) = \min(v(A,w),v(B,w))$
-	(ii) $v(\neg A, w) = 1-v(A,w)$
-	(iii) $v(\Box A, w) = \min_{Rwv} v(A, v)$ (it is 1 iff $v(A,v)=1$ for all $v$ accessible to $w$).
-intuitively $v(A,w)$ is the truth value of the sentence $A$ at the possible world $w$.
 
-Drawing on the ideas above, show how you would define a valuation on the modal language language in the Kripke frame $(W,R)$ by recursion.
+    (i) $v(A\wedge B, w) = \min(v(A,w),v(B,w))$
+
+	(ii) $v(\neg A, w) = 1-v(A,w)$
+
+	(iii) $v(\Box A, w) = \min_{Rwv} v(A, v)$ (it is 1 iff $v(A,v)=1$ for all $v$ accessible to $w$).
+
+intuitively $v(A,w)$ is the truth value of the sentence $A$ at the possible world $w$. Drawing on the ideas above, show how you would define a valuation on the modal language language in the Kripke frame $(W,R)$ by recursion.
