@@ -25,7 +25,7 @@ Draw a possible worlds diagram in which the inference fails: in which there is a
 
 ## Exercise 2
 
-1. Draw all the models over the frame $W=\\{w,v\\}$, $R=\\{(w,v)\\}$ in which every letter, except for $P$, is false. (There should be four.)
+1. Draw all the models over the frame $W=\\{w,v\\}$, $R=\\{(w,v)\\}$ in which every letter is false at every world, except $P$ (which can be true or false at any world). (There should be four.)
 
 2. Prove that $\\{x \mid x\subseteq \\{1\\}\\} = \\{\\{\\}, \\{1\\}\\}$.
 
@@ -58,3 +58,16 @@ Draw a possible worlds diagram in which the inference fails: in which there is a
 	(iii) $v(\Box A, w) = \min_{Rwv} v(A, v)$ (it is 1 iff $v(A,v)=1$ for all $v$ accessible to $w$).
 
 intuitively $v(A,w)$ is the truth value of the sentence $A$ at the possible world $w$. Drawing on the ideas above, show how you would define a valuation on the modal language language in the Kripke frame $(W,R)$ by recursion.
+
+## Exercise 4
+
+1. Prove that $\Gamma \models A$ if and only if $\Gamma \cup \\{\neg A\\}$ is unsatisfiable.
+
+2. Show that any instance of the axiom A2 is valid.
+
+3. Show that $\\{A\to B, A\\}\models B$
+
+4. Prove by induction on proofs that if $\Gamma \vdash A$ then $\Gamma \models A$.
+
+5. Show that $\\{(A\to B), (B\to C)\\}\vdash (A\to C)$, i.e. find a derivation of the formula $(A\to C)$ from the assumptions $(A\to B), (B\to C)$.
+

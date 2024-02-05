@@ -49,7 +49,7 @@ Using the notions of congruence, betweenness and point, and the definition of a 
 
 ### Exercises
 
-1. Let us say that three balls in ordinary Euclidean space are "right angled" iff their centres are at right angles. Does this notion make sense in a (non-Euclidean) pointless geometry, where there are no points, and thus no centres? Justify your answer: you may appeal to things we defined in class.
+1. Let us say that three balls in ordinary Euclidean space are "right angled" iff their centres are at right angles. Does this notion make sense in a (non-Euclidean) pointless geometry, where there are no points, and thus no centres? Justify your answer: you may freely use any notions we defined in class from ball and parthood.
 
 2. In Euclidean geometry, do you think it is possible to define the relation of $x$ being 1 meter from $y$ using congruence and betweenness? Explain your answer either way.
 
