@@ -90,4 +90,4 @@ In this question you will show that $\Sigma$ is maximal consistent. In 1 and 2 y
 4. Using proposition 3.7 in the notes, show how to construct a valuation for any consistent set of sentences $\Gamma$.
 
 
-[^] Note that this is slightly simpler than my definition of $\Sigma_n$. Thanks to Arthur for noting that this works too!
+[^1] Note that this is slightly simpler than my definition of $\Sigma_n$. Thanks to Arthur for noting that this works too!
