@@ -76,7 +76,7 @@ intuitively $v(A,w)$ is the truth value of the sentence $A$ at the possible worl
 Suppose that the sentences of $\mathcal{L}(\neg,\to)$ have been enumerated $A_1, A_2, A_3,\ldots$, and suppose that $\Gamma$ is a consistent set of sentences. Let us define a sequence of extensions of $\Gamma$ as follows[^1]:
 
 - $\Sigma_0 = \Gamma$
-- $\Sigma_{n+1} = \Sigma_n, A_{n+1}$ if this result is consistent, and = $\Sigma_n$ otherwise.
+- $\Sigma_{n+1} = \Sigma_n, A_{n+1}$ if $\Sigma_n, A_{n+1}$ is consistent, and = $\Sigma_n$ otherwise.
 - $\Sigma = \bigcup_n \Sigma_n$, i.e. $\\{ A \mid A\in \Sigma_n$ for some $n\\}$.
 
 In this question you will show that $\Sigma$ is maximal consistent. In 1 and 2 you'll show that it is consistent. In 4 you'll show that it is maximal-- this means that if $\Sigma, A$ is consistent then $A\in \Sigma$. 
