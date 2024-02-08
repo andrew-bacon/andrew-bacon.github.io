@@ -63,4 +63,16 @@ Watch [youtube video on Pythagoras' theorem](https://youtu.be/8vHO-tFx3K0?si=5ef
 
 Chapter 1 of Maudlin. 
 
-### Exercises 
+
+## Topic 4: Incongruent Counterparts
+
+### Reading 
+
+The papers by Kant and van Cleve in the dropbox folder.
+
+### Exercises
+
+1. Describe your own example of a pair of incongruent counterparts. (Formally, a counterpart is something that is related by a isometry: a mapping preserving congruence and betweenness. Congruent entities can be superimposed, so incongruent counterparts are two individuals that are related by an isometry but can't be superimposed.)
+
+2. Could a hand in otherwise empty space be left or right in virtue of its relation to a Euclidean space? Explain your answer using the tests for definability we have studied in previous classes.
+
