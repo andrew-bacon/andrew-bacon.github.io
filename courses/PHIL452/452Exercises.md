@@ -71,3 +71,23 @@ intuitively $v(A,w)$ is the truth value of the sentence $A$ at the possible worl
 
 5. Show that $\\{(A\to B), (B\to C)\\}\vdash (A\to C)$, i.e. find a derivation of the formula $(A\to C)$ from the assumptions $(A\to B), (B\to C)$.
 
+## Exercise 5
+
+Suppose that the sentences of $\mathcal{L}(\neg,\to)$ have been enumerated $A_1, A_2, A_3,\ldots$, and suppose that $\Gamma$ is a consistent set of sentences. Let us define a sequence of extensions of $\Gamma$ as follows[^1]:
+
+- $\Sigma_0 = \Gamma$
+- $\Sigma_{n+1} = \Sigma_n, A_{n+1}$ if this result is consistent, and = $\Sigma_n$ otherwise.
+- $\Sigma = \bigcup_n \Sigma_n$, i.e. $\\{ A \mid A\in \Sigma_n$ for some $n\\}$.
+
+In this question you will show that $\Sigma$ is maximal consistent. In 1 and 2 you'll show that it is consistent. In 4 you'll show that it is maximal-- this means that if $\Sigma, A$ is consistent then $A\in \Sigma$. 
+
+1. Prove by induction on $n$ that $\Sigma_n$ is consistent for every number $n$.
+
+2. Prove that if $\Sigma$ is inconsistent, then $\Sigma_n$ is inconsistent for some $n$. Thus conclude that $\Sigma$ is consistent.
+
+3. Show that if $\Sigma, A$ is consistent then $A\in \Sigma$. (Hint: first show that if $\Sigma, A$ is consistent, then $\Sigma_n, A$ is consistent for any $n$, and use the fact that $A$ appears somewhere in our enumeration.)
+
+4. Using proposition 3.7 in the notes, show how to construct a valuation for any consistent set of sentences $\Gamma$.
+
+
+[^] Note that this is slightly simpler than my definition of $\Sigma_n$. Thanks to Arthur for noting that this works too!
