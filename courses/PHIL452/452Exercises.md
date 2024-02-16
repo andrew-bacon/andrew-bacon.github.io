@@ -91,3 +91,24 @@ In this question you will show that $\Sigma$ is maximal consistent. In 1 and 2 y
 
 
 [^1] Note that this is slightly simpler than my definition of $\Sigma_n$. Thanks to Arthur for noting that this works too!
+
+## Exercise 6
+
+1. A frame $(W,R)$ is reflexive  iff $Rxx$  for all $x\in W$
+
+	(i) Show that if a frame $(W,R)$ is reflexive (i.e. $Rww$ for every $w\in W$) then $\Box P \to P$ is valid in that frame.
+	
+	(ii) Show that if $\Box P \to P$ is valid in a frame, $(W,R)$, then $R$ is reflexive.
+
+2. A frame $(W,R)$ is symmetric iff $Rxy$ implies $Ryx$ for all $x,y\in W$
+
+
+	(i) Show that if a frame $(W,R)$ is symmetric then $P \to \Box \Diamond P$ is valid in that frame.
+	
+	(ii) Show that if $P \to \Box \Diamond P$ is valid in a frame, $(W,R)$, then $R$ is symmetric.
+
+3. A frame $(W,R)$ is convergent iff, for any $x,y,y'\in W$, if $Rxy$ and $Rxy'$ then there exists  a $z\in W$ such that $Ryz$ and $Ryz'$.
+
+	(i) Show that if a frame $(W,R)$ is convergent then $\Diamond \Box P \to \Box \Diamond P$ is valid in that frame.
+	
+	(ii) Show that if $\Diamond \Box P \to \Box \Diamond P$ is valid in a frame, $(W,R)$, then $R$ is convergent.
