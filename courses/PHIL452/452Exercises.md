@@ -112,3 +112,19 @@ In this question you will show that $\Sigma$ is maximal consistent. In 1 and 2 y
 	(i) Show that if a frame $(W,R)$ is convergent then $\Diamond \Box P \to \Box \Diamond P$ is valid in that frame.
 	
 	(ii) Show that if $\Diamond \Box P \to \Box \Diamond P$ is valid in a frame, $(W,R)$, then $R$ is convergent.
+
+## Exercise 7
+
+A formula $A$ characterizes a class of frames $\mathcal{C}$ when it contains *all* and *only* frames in which $A$ is valid.
+
+1. 	a. Show that a transitive reflexive frame satisfies the condition
+
+		> Every world sees a "dead end" -- a world that only sees itself.
+	
+	if and only if $\Box\Diamond P \to \Diamond \Box P$ is valid.
+	
+	b. Find a single formula that characterizes transitive reflexive frames that satisfy this extra condition. (Hint: it could be a conjunction.)
+	
+2. Find a formula that characterizes the class of frames with the property
+
+	> If $x$ sees $y$ then $y$ sees a world that sees $x$

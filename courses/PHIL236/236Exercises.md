@@ -76,3 +76,25 @@ The papers by Kant and van Cleve in the dropbox folder.
 
 2. Could a hand in otherwise empty space be left or right in virtue of its relation to a Euclidean space? Explain your answer using the tests for definability we have studied in previous classes.
 
+## Topic 5
+
+### Reading
+
+The Leibniz Clark correspondence (in dropbox). Leibniz's second letter to Clark section 1, Clark's second reply, section 1. Leibniz's third letter to Clark section 1-section 7, paying special attention to section 5 and section 6. 
+
+Maudlin Chapter 2.
+
+### Exercises
+
+
+1. Is a ball in empty Euclidean space a homomorph, or an enantomorph?
+
+2. What about a hand in empty Euclidean space?
+
+3. What about a hand in Moebius space (the 3d analogue of a Moebius strip)?
+
+4. What about a hand in four dimensional space?
+
+5. Are there any enantomorphs in four dimensional space? 
+
+6. Are there are enantomorphs in Moebius space? 
