@@ -98,3 +98,29 @@ Maudlin Chapter 2.
 5. Are there any enantomorphs in four dimensional space? 
 
 6. Are there are enantomorphs in Moebius space? 
+
+### Exercises
+
+The primitives of Newton's physics include: (i) congruence and betweenness relations between points of space (corresponding to distance), (ii) congruence and betweeness relations between times (corresponding to duration), (iv) property of being a material particle (iv) A three place location relation "particle p is located at x at time t".
+
+1. Using the Newtonian primitives define the following notions:
+
+	a. A particle being at absolute rest.
+
+	b. A particle moving at a constant velocity .
+
+	c. A two particles always moving at the same velocity (i.e. the same speed in the same direction). 
+
+	d. A particle moving in circular motion at a constant speed.
+
+An example relationist theory: particles are composed of a succession of instantaneous particle events. In addition to particle events that are mathematical objects like real numbers; but no space or time. 
+
+The primitives of the relationist theory include: (i) a distance relation mapping two simultaneous particle events to a real number, the distance between them. (ii) a temporal relation mapping two particle events to the time that elapses between their occurance (a positive number if the second event occurs after the first, and negative other wise). 
+
+2. Assume the relationist theory. For the following notion, either define the notion or show that it can't be defined by finding a mapping that preserves the relationist primitives but not the notion in question.
+
+	a. Can you define the notion of a particle moving at the same velocity as another particle?
+
+	b. Can you define a notion of absolute rest? 
+	
+	c. Can you define the notion of a particle moving in uniform circular motion?

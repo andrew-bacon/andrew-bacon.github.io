@@ -128,3 +128,24 @@ A formula $A$ characterizes a class of frames $\mathcal{C}$ when it contains *al
 2. Find a formula that characterizes the class of frames with the property
 
 	> If $x$ sees $y$ then $y$ sees a world that sees $x$
+
+## Exercise 8
+
+In this exercise you will show that the formula 
+
+	$\mathsf{L}$: $\Box(\Box P\to P) \to \Box P$
+
+characterizes the class of frames which are transitive and are converse well-founded (there are no infinite sequences $x_1, x_2, x_3, ...$ where $Rx_ix_{i+1}$ for all $i$.
+
+1. Suppose that $(W,R)$ is a frame in which $\mathsf{L}$ is valid. You will show that it is transitive and converse well-founded.
+	
+	a. Suppose, for contradiction, that $Rxy$ and $Ryz$ but not $Rxz$. Consider the valuation $V(P) = W\setminus\{y,z\}$. Show that (i) every world $x$ sees satisfies $\Box P\to P$, (ii) $x$ doesn't make $\Box P$ true, to obtain a contradiction given the validity of $\mathsf{L}$.	
+	
+	b. Suppose, for contradiction, that $x_1,x_2,x_3\ldots$ is a sequence with $Rx_ix_{i+1}$ and let $V(P)=W\setminus \{x_1, x_2,x_3,\ldots\}$. Using the fact that $R$ is transitive, show that for each $n$, (i) $x_n\Vdash \neg \Box P$, (ii) $x_n t\Vdash \Box P \to P$, (ii) $x_n\Vdash \Box(\Box (\Box P\to  P))$. Conclude that $R$ must be converse well-founded after all.
+
+2. Here you will show that the property of being irreflexive is not frame definable. Consider the irreflexive frame $\mathcal{F} = (\{x,y\}, \{(x,y),(y,x)\}$ and the reflexive frame $\mathcal{G}=(\{w\}, \{(w,w)\}$. Given a valuation $V$ on $\mathcal{G}$ define a valuation $V'$ on $\mathcal{F}$ by $V'(P)=\{x,y\}$ if $V(P)=\{w\}$ and $V'(P)=\emptyset$ if $V(P)=\emptyset$.
+
+	a. Prove by induction on formulas that that for any valuation $V$ with correspondingl defined $V'$, $x$, $y$ and $w$ make the same formulas true ($w$ with respect to $V$, $x$ and $y$ with respect to $V'$.
+	
+	b. Suppose, for contradiction, that $A$ is a formula that defines being irreflexive. Then $A$ should be valid on $\mathcal{F}$ but not $\mathcal{G}$. Explain why this is a contradiction.
+	
