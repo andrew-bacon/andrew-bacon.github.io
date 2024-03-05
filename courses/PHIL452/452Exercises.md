@@ -137,7 +137,7 @@ In this exercise you will show that the formula $\mathsf{L}$: $\Box(\Box P\to P)
 	
 	a. Suppose, for contradiction, that $Rxy$ and $Ryz$ but not $Rxz$. Consider the valuation $V(P) = W\setminus\\{y,z\\}$. Show that (i) every world $x$ sees satisfies $\Box P\to P$, (ii) $x$ doesn't make $\Box P$ true, to obtain a contradiction given the validity of $\mathsf{L}$.	
 	
-	b. Suppose, for contradiction, that $x_1,x_2,x_3\ldots$ is a sequence with $Rx_ix_{i+1}$ and let $V(P)=W\setminus \\{x_1, x_2,x_3,\ldots\\}$. Using the fact that $R$ is transitive, show that for each $n$, (i) $x_n\Vdash \neg \Box P$, (ii) $x_n t\Vdash \Box P \to P$, (ii) $x_n\Vdash \Box(\Box (\Box P\to  P))$. Conclude that $R$ must be converse well-founded after all.
+	b. Suppose, for contradiction, that $x_1,x_2,x_3\ldots$ is a sequence with $Rx_ix_{i+1}$ and let $V(P)=W\setminus \\{x_1, x_2,x_3,\ldots\\}$. Using the fact that $R$ is transitive, show that for each $n$, (i) $x_n\Vdash \neg \Box P$, (ii) $x_n \Vdash \Box P \to P$, (iii) $x_n\Vdash (Box (\Box P\to  P)$. Conclude that $R$ must be converse well-founded after all.
 
 In the next exercise you will show that the property of being irreflexive (no world sees itself) is not frame definable. 
 
