@@ -115,7 +115,7 @@ A central thesis of *Vagueness and Thought* is the following claim about vaguene
 Your total evidence is the *conjunction* of all of your evidence. We will assume, for simplicity, that this conjunction is also part of your evidence.
 
 
-## Conditioning on a vague proposition
+### Conditioning on a vague proposition
 
 Let us consider what would happen to our credences if we were to condition on the proposition *the tree is about 500cm*. Call this proposition $E$.
 
@@ -125,7 +125,7 @@ So to figure out how our credences in some precise propositions (about how tall 
 
 **Note**: The proposition we in fact learn when looking at the tree may depend on our eyesight, the conditions etc: it's very unlikely to be the very same vague proposition as the one expressed by the sentence "The tree is about 500cm". Perhaps it isn't easily expressed by any sentence of English.
 
-## Jeffrey conditioning again
+### Jeffrey conditioning again
 
 Now we can finally see that our theory of conditioning is actually not inconsistent with Jeffrey's rule, and provides exactly the sort of supplement needed to turn it into a theory for updating on evidence:
 
@@ -134,7 +134,7 @@ Now we can finally see that our theory of conditioning is actually not inconsist
 
 
 
-## A principle of Plenitude for vague propositions
+### A principle of Plenitude for vague propositions
 
 Evidential role: a function mapping each maximally strong consistent precise proposition, $w$, to a number between 1 and 0. 
 
