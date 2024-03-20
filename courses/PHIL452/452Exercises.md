@@ -147,3 +147,15 @@ In the next exercise you will show that the property of being irreflexive (no wo
 	
 	b. Suppose, for contradiction, that $A$ is a formula that defines being irreflexive. Then $A$ should be valid on $\mathcal{F}$ but not $\mathcal{G}$. Explain why this is a contradiction.
 	
+## Some final project ideas
+
+1. Prove that the logic of "trees" is $\mathsf{K}$. A tree is a Kripke frame in which there are no "cycles": there is a root world, $w$, and apart from $w$ every world $v$ has a unique predecessor: a unique world $u$ such that $Ruv$. Further: questions, show that $\mathsf{S4}$ is the logic of transitive reflexive closures of trees, show that $\mathsf{K}$ is the logic of finite trees.
+
+2. Show the soundness and completeness of one of the following logics
+	a.
+	b. 
+	c. 
+
+3. Show the incompleteness of one of the following logics.
+
+2. 

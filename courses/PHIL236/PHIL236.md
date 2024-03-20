@@ -51,11 +51,11 @@ Objectives: Students taking this course will acquire a qualitative understanding
 	- Proposal. 5% (Due March 8th)
 		- Choose a topic from the following list of [prompts](./Paper%20Prompts) (or, under advisement, choose your own), do some independent research on that topic, and present a proposal to your TA for feedback.
 		- [Guidelines](./guidelines)
-	- Paper. 20% (Due March 26).
+	- Paper. 20% (Due April 8).
 		- You will write a draft of your paper and arrange a meeting with your TA for feedback. 
 
 - Second paper 25%. .
-	- Proposal. 5% (Due April 1st)
+	- Proposal. 5% (Due April 15th)
 		- As above.
 	- The final draft of your paper. 20% (Due April 26th)
 		- As above.
