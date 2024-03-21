@@ -124,3 +124,19 @@ The primitives of the relationist theory include: (i) a distance relation mappin
 	b. Can you define a notion of absolute rest? 
 	
 	c. Can you define the notion of a particle moving in uniform circular motion?
+	
+## Topic 6
+
+### Reading
+
+Chapter 2, sections on Newton's bucket.
+
+### Exercises
+
+
+1. Explain why the relationist, using the primitives of spatial congruence and betweeness between simultaneous events, and temporal congruence on events, cannot distinguish the two versions of the yolked globes.
+
+
+2. Choose one extra primitive to add to the relationist theory, and explain how, using that primitive, you can explain the difference. (Try to come up with examples different from class.)
+
+3. Given your answer to question 2, answer the following two questions. Is the new primitive acceptable given a relationist view according to which there are only material objects (and no regions of space or time)? Does you new primitive allow you to introduce the notion of absolute rest.

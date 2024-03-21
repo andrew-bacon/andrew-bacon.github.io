@@ -147,15 +147,13 @@ In the next exercise you will show that the property of being irreflexive (no wo
 	
 	b. Suppose, for contradiction, that $A$ is a formula that defines being irreflexive. Then $A$ should be valid on $\mathcal{F}$ but not $\mathcal{G}$. Explain why this is a contradiction.
 	
-## Some final project ideas
+## Exercise 9
 
-1. Prove that the logic of "trees" is $\mathsf{K}$. A tree is a Kripke frame in which there are no "cycles": there is a root world, $w$, and apart from $w$ every world $v$ has a unique predecessor: a unique world $u$ such that $Ruv$. Further: questions, show that $\mathsf{S4}$ is the logic of transitive reflexive closures of trees, show that $\mathsf{K}$ is the logic of finite trees.
+For these exercises you may assume the canonical model theorem: if $A$ is consistent in a modal logic $\Delta$ then $A$ is true at some world of the canonical model for $\Delta$.
 
-2. Show the soundness and completeness of one of the following logics
-	a.
-	b. 
-	c. 
+1. Show the completeness of $\mathsf{K4}$ ($\Box P\to \Box\Box P$) with respect to the class of transitive frames: if $A$ is consistent in $\mathsf{K4}$, then $A$ is satisfiable on some transitive frame (i.e. is true at some world in some model based on a transitive frame).
 
-3. Show the incompleteness of one of the following logics.
+2. Show the completeness of $\mathsf{KB}$ ($P\to \Box\Diamond P)$) with respect to the class of symmetric frames.
 
-2. 
+3. Show that $\mathsf{S5}$ is complete with respect to the class of equivalence relations (transitive, reflexive, symmetric relations).
+
