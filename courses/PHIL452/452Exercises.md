@@ -183,7 +183,7 @@ Supplementary material: Arthur Prior *Changes in Events and Changes in Things*
 
 Williamson *Gettier Cases in Epistemic Logic*
 
-Stalnaker *Logics of Belief*
+Stalnaker *On Logics of Knowledge and Belief*
 
 
 
