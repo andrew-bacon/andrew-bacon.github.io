@@ -157,3 +157,33 @@ For these exercises you may assume the canonical model theorem: if $A$ is consis
 
 3. Show that $\mathsf{S5}$ is complete with respect to the class of equivalence relations (transitive, reflexive, symmetric relations).
 
+## Applications of Modal Logic: Reading
+
+
+### Metaphysical Necessity
+
+Nathan Salmon. *The Logic of What Might Have Been*
+
+Supplementary material: chapter 7 of Dorr, Hawthorne and Yli-Vakkury *The Bounds of Possibility*.
+
+### Vagueness
+
+Andrew Bacon: *Vagueness at Every Order*
+
+Supplementary material: Susannah Bobzien
+
+### Tense
+
+Dorr and Goodman: *Diamonds are Forever*
+
+Supplementary material: Arthur Prior *Changes in Events and Changes in Things*
+
+
+### Epistemic logic
+
+Williamson *Gettier Cases in Epistemic Logic*
+
+Stalnaker *Logics of Belief*
+
+
+
