@@ -170,7 +170,7 @@ Supplementary material: chapter 7 of Dorr, Hawthorne and Yli-Vakkury *The Bounds
 
 Andrew Bacon: *Vagueness at Every Order*
 
-Supplementary material: Susannah Bobzien
+Supplementary material: Susanne Bobzien *Columnar Higher-Order Vagueness, or Vagueness is Higher-Order Vagueness*
 
 ### Tense
 
