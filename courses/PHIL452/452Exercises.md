@@ -157,6 +157,20 @@ For these exercises you may assume the canonical model theorem: if $A$ is consis
 
 3. Show that $\mathsf{S5}$ is complete with respect to the class of equivalence relations (transitive, reflexive, symmetric relations).
 
+## Exercise 10
+
+$\mathsf{Alt}_n$ is the claim 
+
+$\Box P_1 \vee \Box(P_1\to P_2) \vee \Box (P_1\wedge P_2 \to P_3) \vee \ldots \vee \Box (P_1\wedge \ldots \wedge P_n \to P_{n+1})$
+
+
+1. Suppose every world in a frame sees at most $n$ worlds. Explain why $\mathsf{Alt}_n$ must be valid.
+
+2. Consider a frame in which some world sees $n+1$ or more worlds. Show that there is some valuation on this frame that invalidates  $\mathsf{Alt}_n$.
+
+
+
+
 ## Applications of Modal Logic: Reading
 
 
