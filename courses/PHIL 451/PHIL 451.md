@@ -21,7 +21,7 @@ Thursdays, 2:00-4:50. TTH 215.
 
 ## Links
 
-| [dropbox](https://www.dropbox.com/scl/fo/mg0651llx9uddmbvr93z4/h?rlkey=ksk55vsiahppdzt0ynh4odmbh&dl=0) | [signup sheet](https://docs.google.com/spreadsheets/d/10DAJ2HGG18I3qAt6Rv3DHMP9vQDyHGQjuJmUtjGOOSg/edit?usp=sharing) | [guidelines for writing a paper proposal](./guidelines) |
+| [dropbox](https://www.dropbox.com/scl/fo/o43gpj56sm9vl4qihrlnl/AK80dOf56w2C2_zoNiiGs68?rlkey=ja8m46cywyfeubyyg4x3d0gag&dl=0) | [signup sheet](https://docs.google.com/spreadsheets/d/1YdSSYrOmpenrK_OVyqNE_aUByKe2w4kmitSEc86vXVg/edit?usp=sharing) | [guidelines for writing a paper proposal](./guidelines) |
 
 ## Course description
 
@@ -40,7 +40,7 @@ PHIL 350, PHIL 222. The prerequisites may be waived if the student can demonstra
 
 - Participation: 20%
 	- Contribute to class discussion. Be prepared to answer questions if called upon, and to raise your hand if you do not understand something. You are collectively responsible for setting the pace of the class, and clarificatory questions. 5\% 
-	- Every week, three students will present a solution to an exercise of their choice on the board. The signup sheet for these presentations can be found [here](https://docs.google.com/spreadsheets/d/10DAJ2HGG18I3qAt6Rv3DHMP9vQDyHGQjuJmUtjGOOSg/edit?usp=sharing). Once you have signed up for an exercise please do not sign up again until we have made a full cycle of the class. 15%.
+	- Every week, three students will present a solution to an exercise of their choice on the board. The signup sheet for these presentations can be found [here](https://docs.google.com/spreadsheets/d/10DAJ2HGG18I3qAt6Rv3DHMP9vQDyHGQjuJmUtjGOOSg/edit?usp=sharing). Once you have signed up for an exercise please do not sign up again until we have made a full cycle of the class. 15\%.
 
 - Exercises 50\%
 	
