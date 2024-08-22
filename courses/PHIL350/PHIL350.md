@@ -54,10 +54,10 @@ There are no prerequisites.
     [here](https://docs.google.com/spreadsheets/d/1wBS1wHt6BXQcAODjO8jnl23bCghvA7EsuUoMQ8klgAA/edit?usp=sharing).
 
 - Midterm
-	-Thursday, March 9th. In class exam.
+	- Thursday, October 3rd. In class exam.
 
 - Final
-	-Thursday April 27th, in class.
+	- Thursday December 5th, in class.
 	- Exams *cannot* be rescheduled except in a very limited set of circumstances (you may consult the universities regulations and policies [here]( http://catalogue.usc.edu/content.php?catoid=2&navoid=281) ).
 
 
