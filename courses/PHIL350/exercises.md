@@ -1,3 +1,9 @@
+<head>
+<script type="text/javascript" charset="utf-8" 
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
+https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
+</head>
+
 # Inductive Structures
 
 ## The natural numbers.
@@ -9,7 +15,8 @@ There are two rules for building numbers.
 2.  If $n$ is a number, so in $sn$.
 
 We can represent these two rules as follows:
-$$\frac{\qquad}{0}\qquad \frac{\qquad n \qquad}{sn}$$ This notation is
+$$\frac{\qquad}{0}\qquad \frac{\qquad n \qquad}{sn}$$ 
+This notation is
 read as follows: if you can build everything above the line, then you
 can build the thing under the line. When nothig appears above the line,
 this means you can always build the thing underneath the line.

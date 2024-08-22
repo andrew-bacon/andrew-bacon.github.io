@@ -18,11 +18,10 @@ Tuesdays and Thursdays 12:30-1:50. MHP B7B
 
 
 Material will be drawn primarily from lectures and notes. The two books listed below are useful supplements. It is recommended that you take handwritten notes during class, so you will need a notepad. This can be supplemented by the first few chapters of
-	- For the first part of the course on inductive structures:
-        Chapter two of *The Limits of Logic* by Jeff Russell (free, and
-        available in the dropbox folder).
-    - Later portions of the course on propositional and modal logics:
-        chapters 1-3 of Ted Sider's *Logic for Philosophy*.
+- For the first part of the course on inductive structures:
+	- Chapter two of *The Limits of Logic* by Jeff Russell (free, and available in the dropbox folder).
+- Later portions of the course on propositional and modal logics:
+	- chapters 1-3 of Ted Sider's *Logic for Philosophy*.
 
 
 ## Links
@@ -31,7 +30,7 @@ Material will be drawn primarily from lectures and notes. The two books listed b
 
 ## Course description
 
-In 
+In this course students will learn fundamental results in metalogic. The course begins with an introduction to mathematical reasoning about inductive structures, such as natural numbers, sequences, trees and sentences. Using these tools we will then study the model theory and proof theory for classical and non-classical propositional logics allowing us to establish various soundness, completeness, and indepedence results. If time permits we will look at propositional modal logic, and first-order and higher-order logics, 
 
 ## Prerequisites
 
