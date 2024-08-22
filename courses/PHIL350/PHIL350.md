@@ -18,12 +18,10 @@ Tuesdays and Thursdays 12:30-1:50. MHP B7B
 
 
 Material will be drawn primarily from lectures and notes. The two books listed below are useful supplements. It is recommended that you take handwritten notes during class, so you will need a notepad. This can be supplemented by the first few chapters of
-
-    -   For the first part of the course on inductive structures:
+	- For the first part of the course on inductive structures:
         Chapter two of *The Limits of Logic* by Jeff Russell (free, and
         available in the dropbox folder).
-
-    -   Later portions of the course on propositional and modal logics:
+    - Later portions of the course on propositional and modal logics:
         chapters 1-3 of Ted Sider's *Logic for Philosophy*.
 
 
@@ -33,11 +31,11 @@ Material will be drawn primarily from lectures and notes. The two books listed b
 
 ## Course description
 
-
+In 
 
 ## Prerequisites
 
-PHIL 350, PHIL 222. You should be familiar with propositional logic, and have experience with proofs by induction. We will recap these ideas in class. The prerequisites may be waived if the student can demonstrate some relevant background, which may include relevant courses in mathematics, linguistics or computer science. 
+There are no prerequisites.
 
 ## Grading
 
