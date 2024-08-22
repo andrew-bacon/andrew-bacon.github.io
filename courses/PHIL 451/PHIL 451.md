@@ -13,7 +13,7 @@ Thursdays, 2:00-4:50. TTH 215.
 
 ## Contact
 
-| Andrew Bacon | office: 224 STO | email: abacon@usc.edu | in person office hours: Tuesdays 11-12 | [zoom](https://usc.zoom.us/s/3587631632) office hours: Wednesday 9-10 by appointment |
+| Andrew Bacon | office: 224 STO | email: abacon@usc.edu | in person office hours: Thursdays 5-6 | [zoom](https://usc.zoom.us/s/3587631632) office hours: Wednesday 9-10 by appointment |
 
 ## Textbook
 
@@ -39,8 +39,8 @@ PHIL 350, PHIL 222. The prerequisites may be waived if the student can demonstra
 ## Grading
 
 - Participation: 20%
-	- Contribute to class discussion. Be prepared to answer questions if called upon, and to raise your hand if you do not understand something. You are collectively responsible for setting the pace of the class, and clarificatory questions. 5\% 
-	- Every week, three students will present a solution to an exercise of their choice on the board. The signup sheet for these presentations can be found [here](https://docs.google.com/spreadsheets/d/10DAJ2HGG18I3qAt6Rv3DHMP9vQDyHGQjuJmUtjGOOSg/edit?usp=sharing). Once you have signed up for an exercise please do not sign up again until we have made a full cycle of the class. 15\%.
+	- Contribute to class discussion. Be prepared to answer questions if called upon, and to raise your hand if you do not understand something. You are collectively responsible for setting the pace of the class, and clarificatory questions. 5% 
+	- Every week, three students will present a solution to an exercise of their choice on the board. The signup sheet for these presentations can be found [here](https://docs.google.com/spreadsheets/d/10DAJ2HGG18I3qAt6Rv3DHMP9vQDyHGQjuJmUtjGOOSg/edit?usp=sharing). Once you have signed up for an exercise please do not sign up again until we have made a full cycle of the class. 15%.
 
 - Exercises 50%
 	
