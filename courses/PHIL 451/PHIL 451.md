@@ -42,26 +42,27 @@ PHIL 350, PHIL 222. The prerequisites may be waived if the student can demonstra
 	- Contribute to class discussion. Be prepared to answer questions if called upon, and to raise your hand if you do not understand something. You are collectively responsible for setting the pace of the class, and clarificatory questions. 5\% 
 	- Every week, three students will present a solution to an exercise of their choice on the board. The signup sheet for these presentations can be found [here](https://docs.google.com/spreadsheets/d/10DAJ2HGG18I3qAt6Rv3DHMP9vQDyHGQjuJmUtjGOOSg/edit?usp=sharing). Once you have signed up for an exercise please do not sign up again until we have made a full cycle of the class. 15\%.
 
-- Exercises 50\%
+- Exercises 50%
 	
 	- Weekly exercises will be graded on a pass fail basis, and must be submitted by Tuesdays 9:30, before we discuss them in class.
 	
 		A pass does not necessarily mean your answer is correct: it means that you have engaged seriously with the question, and that you can explain your strategy and any difficulties you encountered. Correct answers will be discussed in class.
 	
-	- Exercises must be uploaded to blackboard. Submissions normally consist of photos of handwritten solutions; LaTeX or other software for typesetting logical symbols can be used but is not necessary.
-	- Grades will be released before the following exercises are due.
+	- Exercises must be uploaded to course management software. Submissions normally consist of photos of handwritten solutions; LaTeX or other software for typesetting logical symbols can be used but is not necessary.
 	- If you can provide a reason that you will not complete the exercises by the deadline, let me know *in advance*, and we can discuss an extension.
 	
 - Final Project: 5% + 25%
-	- Proposal: 5%. Due April 9.
+	- Proposal: 5%. Due November 18.
 	
 		Submit a detailed proposal of what you intend to do your final project on.
 
-	- Final project: 25%. Due April 30th. (Grades released: May 7th).
+	- Final project: 25%. Due December 6th. 
 
 
 
 ## Schedule
+
+**Theory**
 
 - **Week 1**. Typed and higher-order languages: what are they, and why are they useful? 
 
