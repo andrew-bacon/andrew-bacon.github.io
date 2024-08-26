@@ -46,7 +46,11 @@ There are no prerequisites.
 
 - Grading
 	- You will be assessed entirely on the basis of weekly exercises (20%), participation and in-class exercises (20%), two exams (30% and 30%).
-    - Weekly exercises will be graded on a pass fail basis. You have two free passes: you may miss up to two weekly exercises without it affecting your grade, which should be reserved for illness or family emergencies. Further absences will need proper documentation.
+
+- Weekly exercises 
+	- These will be graded on a pass fail basis. Note that a pass does **not** mean that you got the exercise correct -- it means that you gave the exercise an honest try. Solutions to exercises will be covered in class. 
+	- You have two free passes: you may miss up to two weekly exercises without it affecting your grade, which should be reserved for illness or family emergencies. Further absences will need proper documentation.
+	- Feedback on solutions is always verbal. Make sure you prepare any questions you had for the in-class discussion of solutions, and come to office hours if necessary. 
 
 - In-class exercises
 
