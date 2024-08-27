@@ -15,7 +15,9 @@ There are two rules for building numbers.
 2.  If $n$ is a number, so in $sn$.
 
 We can represent these two rules as follows:
+
 $\frac{\qquad}{0}\qquad \frac{\qquad n \qquad}{sn}$
+
 This notation is
 read as follows: if you can build everything above the line, then you
 can build the thing under the line. When nothig appears above the line,
@@ -51,7 +53,8 @@ $P,Q, R, S, P_1, P_2,P_2, ...$. We use $Let$ to stand for the set of
 propositional letters.
 
 The rules for making sentences.
-$$\frac{\qquad}{P_i} \qquad \frac{A \qquad B}{(A\wedge B)} \qquad \frac{\qquad A \qquad}{\neg A} \qquad \frac{A \qquad B}{(A\vee B)} \qquad \frac{A \qquad B}{(A\to B)}$$
+
+$\frac{\qquad}{P_i} \qquad \frac{A \qquad B}{(A\wedge B)} \qquad \frac{\qquad A \qquad}{\neg A} \qquad \frac{A \qquad B}{(A\vee B)} \qquad \frac{A \qquad B}{(A\to B)}$
 
 
 **Exercise 1.3** (Tuesday 17th Jan). *Which of the following are
@@ -112,7 +115,8 @@ There are two rules for constructing sequences of numbers:
 2.  If $n$ is a number and $s$ is a sequence, then $n:s$ is a sequence.
 
 we may represent these rules as follows:
-$$\frac{\qquad}{\epsilon} \qquad \frac{\qquad s \qquad}{(n:s)} \mbox{when } n \in \mathbb{N}$$
+
+$\frac{\qquad}{\epsilon} \qquad \frac{\qquad s \qquad}{(n:s)} \mbox{when } n \in \mathbb{N}$
 
 
 **Exercise 1.7**. *Which of the following can be built from the rules?
@@ -716,7 +720,8 @@ sentences subject to the following constraints:
 A proof *of* a sentence $A$ is a sequence with $A$ as the last element.
 The empty sequence is a proof of nothing. We can represent proofs as
 inductive structures as follows:
-$$\frac{\qquad}{\epsilon}\qquad \frac{t}{(A:t)}\mbox{provided }A\mbox{ is an axiom or }A\in \Gamma\qquad \frac{t}{(B:t)}\mbox{provided }A\to B\mbox{ and }A\mbox{ appear in }t$$
+
+$\frac{\qquad}{\epsilon}\qquad \frac{t}{(A:t)}\mbox{provided }A\mbox{ is an axiom or }A\in \Gamma\qquad \frac{t}{(B:t)}\mbox{provided }A\to B\mbox{ and }A\mbox{ appear in }t$
 
 In practice you can write a proof as a numbered sequence of sentences
 going down the page. For instance, to show that we can prove $A\to C$
