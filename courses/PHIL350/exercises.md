@@ -15,13 +15,13 @@ There are two rules for building numbers.
 2.  If $n$ is a number, so in $sn$.
 
 We can represent these two rules as follows:
-$$\frac{\qquad}{0}\qquad \frac{\qquad n \qquad}{sn}$$ 
+$\frac{\qquad}{0}\qquad \frac{\qquad n \qquad}{sn}$
 This notation is
 read as follows: if you can build everything above the line, then you
 can build the thing under the line. When nothig appears above the line,
 this means you can always build the thing underneath the line.
 
-::: exercise
+
 **Exercise 1.1** (Tuesday 17th Jan). *Which of the following are natural
 numbers that can be built with our rules? For the ones that are, show
 that they are using the two rules, 1 and 2, or as a derivation using
@@ -38,7 +38,7 @@ horizontal lines.*
 5.  *$s0s$*
 :::
 
-::: exercise
+
 **Exercise 1.2** (Tuesday 17th Jan). *Try to think up some rules that
 will generate *expressions* for natural numbers in Arabic notation. Show
 how to generate $148$ using your rules.*
@@ -53,7 +53,7 @@ propositional letters.
 The rules for making sentences.
 $$\frac{\qquad}{P_i} \qquad \frac{A \qquad B}{(A\wedge B)} \qquad \frac{\qquad A \qquad}{\neg A} \qquad \frac{A \qquad B}{(A\vee B)} \qquad \frac{A \qquad B}{(A\to B)}$$
 
-::: exercise
+
 **Exercise 1.3** (Tuesday 17th Jan). *Which of the following are
 sentences of propositional logic? If it is a sentence give a derivation
 of it.*
@@ -77,19 +77,19 @@ Binary branching trees are built by two rules.
 
 In class we also gave these trees a pictorial representation.
 
-::: exercise
+
 **Exercise 1.4**. *Build four different trees using these rules. You may
 represent them pictorially, as we did in class.*
 :::
 
-::: exercise
+
 **Exercise 1.5**. *Come up with a new set of rules from which you can
 build trees that can branch two or three times at each node.*
 :::
 
 ## Sequences (strings, lists)
 
-::: exercise
+
 **Exercise 1.6**. *Give examples of elements of the following sets. For
 sequences, use the above notation (i.e. $(1,4)$ for the sequence *one
 and then four*, etc.).*
@@ -114,7 +114,7 @@ There are two rules for constructing sequences of numbers:
 we may represent these rules as follows:
 $$\frac{\qquad}{\epsilon} \qquad \frac{\qquad s \qquad}{(n:s)} \mbox{when } n \in \mathbb{N}$$
 
-::: exercise
+
 **Exercise 1.7**. *Which of the following can be built from the rules?
 For those that can, give the derivations of their constructions:*
 
@@ -133,7 +133,7 @@ For those that can, give the derivations of their constructions:*
 7.  *$((1:2):\epsilon)$*
 :::
 
-::: exercise
+
 **Exercise 1.8**. *Translate the following into the simple
 representation of sequences, (where e.g. *four and then seven and then
 two* is $(4,7,2)$.)*
@@ -161,7 +161,7 @@ equations:
 
 -   $f(sn)= \ldots f(n) \ldots$
 
-::: exercise
+
 **Exercise 2.1** (Tuesday January 31st). *Define the following functions
 by recursion. You may appeal to any functions you have defined in
 previous questions. (NOTE: if you sign up for this exercise you will
@@ -180,7 +180,7 @@ only present the last answer, as we did the other two in class.)*
 you've made in previous questions.*
 :::
 
-::: exercise
+
 **Exercise 2.2** (Tuesday January 31st). *Given your above definitions,
 simplify $add2(ss0)$, $double(ss0)$ and $power2(ss0)$. (An expression is
 fully simplified when it is a natural number, i.e. a sequence of $s$s
@@ -221,7 +221,7 @@ first three rules about. In order to get practice working with languages
 it is often convenient to work in a restricted language because there
 are fewer clauses to write down.
 
-::: exercise
+
 **Exercise 2.3** (Tuesday January 31st). *Define a function
 $length:\mathcal{L}(\neg,\wedge)\to \mathbb{N}$ that maps a sentence to
 the length of the sentence.*
@@ -244,7 +244,7 @@ things:
 when defining a function by recursion on strings you should always have
 two equations like this.
 
-::: exercise
+
 **Exercise 2.4** (Tuesday January 31st). *Define the following functions
 by recursion on sequences.*
 
@@ -262,7 +262,7 @@ by recursion on sequences.*
 
 ## Defining binary functions by recursion
 
-::: exercise
+
 **Exercise 2.5**. *Define the following unary and binary functions by
 recursion. You may appeal to any functions you have defined in previous
 questions*
@@ -286,7 +286,7 @@ questions*
     $fact(n) = 1\times 2\times ...\times n$.*
 :::
 
-::: exercise
+
 **Exercise 2.6**. *Define the following unary functions by recursion.
 You may appeal to any functions you have defined in previous questions*
 
@@ -302,7 +302,7 @@ $f:T\to A$ on the set of trees $T$, you must say what $f$ does to each
 leaf (the simple tree $\circ$), and you must say what it does to
 $(t_1 \bullet t_2)$ in terms of what it does to $t_1$ and $t_2$.
 
-::: exercise
+
 **Exercise 2.7**. *Define the following operations on trees.*
 
 1.  *$leaf:T\to \mathbb{N}$ mapping a tree to the number of leaves.*
@@ -324,7 +324,7 @@ To define a property $F$ on natural numbers you must do two things:
 2.  Say whether $sn$ has the property, in terms of whether $n$ has the
     property.
 
-::: exercise
+
 **Exercise 2.8**. *Define the following properties:*
 
 1.  *Being an odd number.*
@@ -346,7 +346,7 @@ what property you are attempting to show all numbers possess.
 
 Definition of add: $add(k,0)=k$, $add(k,sn)=s\, add(k,n)$
 
-::: exercise
+
 **Exercise 3.1** (Tuesday 7th February: when you sign up sign up for
 part a), b) or c)).
 
@@ -368,7 +368,7 @@ part a), b) or c)).
 Recall the definition of $mult$: $mult(k, 0)=0$,
 $mult(k,sn)=add(mult(k,n),k)$
 
-::: exercise
+
 **Exercise 3.2** (Tuesday 7th February: when you sign up sign up for
 part a), b) or c)).
 
@@ -381,7 +381,7 @@ part a), b) or c)).
     $n$. Use the previous two exercises.)*
 :::
 
-::: exercise
+
 **Exercise 3.3** (Practice Exercises). *Show the following are true for
 any $n$ and $m$ (using induction)*
 
@@ -434,7 +434,7 @@ and the recursive definition of on $rev$:
 
 -   $rev(a:t) = rev(t)\oplus (a:\epsilon)$
 
-::: exercise
+
 **Exercise 3.4** (Thursday February 9). *Show the following by induction
 on sequences*
 
@@ -452,7 +452,7 @@ on sequences*
 
 ## The Propositional Calculus (Propositional Logic)
 
-::: exercise
+
 **Exercise 4.1** (Thursday 16th of Feb). *A sentence is balanced if it
 has the same number of $($ symbols as $)$ symbols.*
 
@@ -463,7 +463,7 @@ has the same number of $($ symbols as $)$ symbols.*
 2.  *Prove by induction that every sentence is balanced.*
 :::
 
-::: exercise
+
 **Exercise 4.2** (Thursday 16th Feb). *Suppose that $v_0$ is a truth
 assignment: a function that maps each sentence letter to a $0$ or a $1$.
 Define by recursion a function
@@ -474,7 +474,7 @@ truth values given by $v_0$.*
 
 If $v_0$ is a truth assignment, we call $v$ the corresponding valuation.
 
-::: exercise
+
 **Exercise 4.3** (Thursday 16th). *Suppose that $v_0$ is a truth
 assignment, and $v$ is a corresponding valuation. Prove the following by
 induction*
@@ -496,7 +496,7 @@ connective of a sentence is the connective that is introduced in the
 final step, when it is constructed explicitly from the rules for
 building sentences.
 
-::: exercise
+
 **Exercise 4.4** (Do this exercise for practice). *Consider the
 following sentences:*
 
@@ -521,7 +521,7 @@ following sentences:*
     rules, and check your answers to part 1.*
 :::
 
-::: exercise
+
 **Exercise 4.5** (Thursday 23rd Feb). *Show that tho following
 entailments hold:*
 
@@ -532,7 +532,7 @@ entailments hold:*
 3.  *$A, B\models (A\wedge B)$*
 :::
 
-::: exercise
+
 **Exercise 4.6** (Tuesday 28th Feb). *Show the following:*
 
 1.  *If $A\models B$ and $B\models C$ then $A\models C$.*
@@ -542,7 +542,7 @@ entailments hold:*
 3.  *If $A\models B$ then $\neg B\models \neg A$*
 :::
 
-::: exercise
+
 **Exercise 4.7** (Tuesday 28th Feb).
 
 1.  *Prove by induction on sentences that if $v$ and $u$ are two
@@ -555,7 +555,7 @@ entailments hold:*
     is not a tautology.*
 :::
 
-::: exercise
+
 **Exercise 4.8** (Revision exercise). *Using the truth table method, or
 otherwise, evaluate the following:*
 
@@ -591,7 +591,7 @@ The *arity* of a connective is the number of arguments it needs to make
 a sentence. Binary operations have an arity of two, unary have arity
 one, ternary have arity three, and so on.
 
-::: exercise
+
 **Exercise 4.9** (Tuesday 28th March).
 
 1.  *Make up your own unary truth functional connective. This involves
@@ -604,12 +604,12 @@ one, ternary have arity three, and so on.
 3.  *Make up your own ternary connective.*
 :::
 
-::: exercise
+
 **Exercise 4.10** (Tuesday 28th March). *For each of the connectives you
 made up, try to define it in terms of $\wedge$, $\neg$ and $\vee$.*
 :::
 
-::: exercise
+
 **Exercise 4.11** (Thursday 30 (not for presentation -- we did this in
 class already)). *Let $v_0$ be the truth assignment that makes every
 propositional letter true. Let $v$ be the extension of $v_0$ to
@@ -628,7 +628,7 @@ sentences (see section 6).*
     truth functionally complete.*
 :::
 
-::: exercise
+
 **Exercise 4.12** (Thursday 30).
 
 1.  *Prove by induction that if $A$ is a sentence of
@@ -663,14 +663,14 @@ defining $C$ from $\neg$, $\wedge$ and $\vee$:
     $T$. Take the disjunction of these conjunctions, and the result will
     define .
 
-::: exercise
+
 **Exercise 4.13** (April 11). *There exists two binary connectives,
 $\uparrow$ and $\downarrow$, that are each truth-functionally complete
 all on their own (thus, for instance, every truth functional connective
 can be defined from just $\uparrow$. Attempt to find one of these?*
 :::
 
-::: exercise
+
 **Exercise 4.14** (April 11). *This exercise is very challenging, but
 have a go anyway.*
 
@@ -736,7 +736,7 @@ as follows:
 If you can prove $B$ from the assumptions $A_1...A_n$ you write
 $A_1...A_n\vdash B$.
 
-::: exercise
+
 **Exercise 5.1** (Tuesday April 18). *The following sentences are
 instances of axioms A1-A3. For each sentence, say which axiom it is an
 instance of, and say what $A$, $B$ (and $C$ if applicable) refer to in
@@ -749,7 +749,7 @@ that instance.*
 3.  *$(P \to ((Q\to P)\to Q)) \to ((P\to (Q\to P)) \to (P\to Q))$*
 :::
 
-::: exercise
+
 **Exercise 5.2** (Tuesday April 18). *Show the following*
 
 1.  *$B \vdash (A\to B)$*
@@ -760,7 +760,7 @@ that instance.*
     $A\to (B\to C)$ using A1.)*
 :::
 
-::: exercise
+
 **Exercise 5.3** (Tuesday April 18). *This is question is slightly more
 challenging. Show $\vdash (P\to P)$. You do not need to use A3 in this
 proof.*
@@ -768,7 +768,7 @@ proof.*
 
 ## Soundness and Completeness
 
-::: exercise
+
 **Exercise 5.4** (Thursday 30th March). *In this exercise you will
 create your own axiom system. It must be different than the ones we
 discussed in class on Thursday.*
@@ -785,7 +785,7 @@ discussed in class on Thursday.*
 4.  *Do you think your axiom system is complete?*
 :::
 
-::: exercise
+
 **Exercise 5.5** (Thursday 30th March). *The axiom systems you provide
 for these questions must be different from the ones we discussed in
 class.*
@@ -802,7 +802,7 @@ class.*
     harder task.)*
 :::
 
-::: exercise
+
 **Exercise 5.6** (Thursday 30th March). *Assume that the system A1-A3 is
 sound.*
 
@@ -813,7 +813,7 @@ sound.*
     $P\not\vdash P\to Q$*
 :::
 
-::: exercise
+
 **Exercise 5.7**. *In this question you will prove the soundness of the
 axiom system A1-A3.*
 
@@ -931,7 +931,7 @@ which can be proven from $A_1...A_n$.
 Proof is by induction on proofs. ◻
 :::
 
-::: exercise
+
 **Exercise 5.8** (Practice questions). *Establish the following using
 the completeness theorem*
 
@@ -947,7 +947,7 @@ the completeness theorem*
 2.  *$\vdash (A\to ((A\to B) \to ((B\to C) \to C)$.*
 :::
 
-::: exercise
+
 **Exercise 5.9** (Practice questions). *Determine whether the following
 arguments may be proven in the standard system (with axioms A1-A3). If
 can be, give the proof, if not show that there doesn't exist a proof by
