@@ -38,13 +38,13 @@ horizontal lines.*
 4.  *$sss0$*
 
 5.  *$s0s$*
-:::
+
 
 
 **Exercise 1.2** (Tuesday 17th Jan). *Try to think up some rules that
 will generate *expressions* for natural numbers in Arabic notation. Show
 how to generate $148$ using your rules.*
-:::
+
 
 ## Sentences of Propositional Logic
 
@@ -68,7 +68,7 @@ of it.*
 3.  *$(P\vee R)\wedge Q)$*
 
 4.  *$(\neg P)$*
-:::
+
 
 ## Trees
 
@@ -83,12 +83,12 @@ In class we also gave these trees a pictorial representation.
 
 **Exercise 1.4**. *Build four different trees using these rules. You may
 represent them pictorially, as we did in class.*
-:::
+
 
 
 **Exercise 1.5**. *Come up with a new set of rules from which you can
 build trees that can branch two or three times at each node.*
-:::
+
 
 ## Sequences (strings, lists)
 
@@ -97,16 +97,16 @@ build trees that can branch two or three times at each node.*
 sequences, use the above notation (i.e. $(1,4)$ for the sequence *one
 and then four*, etc.).*
 
-1.  *$\mathbb{N}$*
+1.  $\mathbb{N}
 
-2.  *$\mathbb{N}^*$*
+2.  $\mathbb{N}^*$
 
-3.  *$\{$Alice, Bob, Carol$\}^*$*
+3.  $\{$Alice, Bob, Carol$\}^*$
 
-4.  *$(\mathbb{N}^*)^*$*
+4.  $(\mathbb{N}^*)^*$
 
-5.  *$(\emptyset^*)^*$*
-:::
+5.  $(\emptyset^*)^*$
+
 
 There are two rules for constructing sequences of numbers:
 
@@ -135,7 +135,7 @@ For those that can, give the derivations of their constructions:*
 6.  *$(1:(2:\epsilon))$*
 
 7.  *$((1:2):\epsilon)$*
-:::
+
 
 
 **Exercise 1.8**. *Translate the following into the simple
@@ -152,7 +152,7 @@ notation.*
 1.  *$(4,7,2)$*
 
 2.  *$(1)$*
-:::
+
 
 # Definition by Recursion
 
@@ -182,7 +182,7 @@ only present the last answer, as we did the other two in class.)*
 
 *HINT: Remember that you can use $s$ and $0$, as well as any definitions
 you've made in previous questions.*
-:::
+
 
 
 **Exercise 2.2** (Tuesday January 31st). *Given your above definitions,
@@ -190,7 +190,7 @@ simplify $add2(ss0)$, $double(ss0)$ and $power2(ss0)$. (An expression is
 fully simplified when it is a natural number, i.e. a sequence of $s$s
 followed by a $0$. In the last case, you may need to appeal to your
 equations for $double$ as well as $power2$.)*
-:::
+
 
 ## Definition by recursion on sentences
 
@@ -229,7 +229,7 @@ are fewer clauses to write down.
 **Exercise 2.3** (Tuesday January 31st). *Define a function
 $length:\mathcal{L}(\neg,\wedge)\to \mathbb{N}$ that maps a sentence to
 the length of the sentence.*
-:::
+
 
 ## Definition by recursion on $A^*$
 
@@ -262,7 +262,7 @@ by recursion on sequences.*
 3.  *$s^*:\mathbb{N}^*\to \mathbb{N}^*$ that takes a sequence of numbers
     and returns the sequence you get by adding 1 to each element of the
     sequence.*
-:::
+
 
 ## Defining binary functions by recursion
 
@@ -288,7 +288,7 @@ questions*
 4.  *Define by recursion a function $fact:\mathbb{N}\to \mathbb{N}$
     where $fact$ is the factorial function, i.e. $fact(0)=1$ and
     $fact(n) = 1\times 2\times ...\times n$.*
-:::
+
 
 
 **Exercise 2.6**. *Define the following unary functions by recursion.
@@ -299,7 +299,7 @@ You may appeal to any functions you have defined in previous questions*
 
 2.  *$lmust:\mathbb{N}^*\to \mathbb{N}$ that takes a sequence of numbers
     and multiplies them together.*
-:::
+
 
 Definition by recursion on trees is similar. To define an operation
 $f:T\to A$ on the set of trees $T$, you must say what $f$ does to each
@@ -317,7 +317,7 @@ $(t_1 \bullet t_2)$ in terms of what it does to $t_1$ and $t_2$.
 3.  *$depth::T\to \mathbb{N}$ mapping a tree to the longest path you can
     take from its top node. You may assume the you have defined the
     maximum operation $max:\mathbb{N}\times \mathbb{N}\to \mathbb{N}$.*
-:::
+
 
 ## Defining properties and relations by recursion
 
@@ -339,7 +339,7 @@ To define a property $F$ on natural numbers you must do two things:
     greater or equal to $k$'. (Recall how we defined binary functions:
     you will fix $k$ and do a recursive definition of the unary property
     $\geq k$.)*
-:::
+
 
 # Proof by Induction
 
@@ -367,7 +367,7 @@ part a), b) or c)).
     addition is commutative: for all $n$, $add(m,n) = add(n,m)$. (You
     should may appeal to what has already been proved in the previous
     question.)*
-:::
+
 
 Recall the definition of $mult$: $mult(k, 0)=0$,
 $mult(k,sn)=add(mult(k,n),k)$
@@ -383,7 +383,7 @@ part a), b) or c)).
 
 3.  *Show that $mult(m,n) = mult(n,m)$ (fix $m$, and do induction on
     $n$. Use the previous two exercises.)*
-:::
+
 
 
 **Exercise 3.3** (Practice Exercises). *Show the following are true for
@@ -422,7 +422,7 @@ any $n$ and $m$ (using induction)*
 14. *$m = n$ or $sm \leq n$ or $n\leq m$.*
 
 15. *If $n\leq m$ and $m\leq k$ then $n\leq k$.*
-:::
+
 
 ## Induction on sequences
 
@@ -450,7 +450,7 @@ on sequences*
 3.  *$rev(t\oplus s)=rev(s)\oplus rev(t)$*
 
 4.  *$rev(rev(t)) = t$ (you will need to use previous questions.)*
-:::
+
 
 # Propositional Logic
 
@@ -465,7 +465,7 @@ has the same number of $($ symbols as $)$ symbols.*
     parentheses respectively.*
 
 2.  *Prove by induction that every sentence is balanced.*
-:::
+
 
 
 **Exercise 4.2** (Thursday 16th Feb). *Suppose that $v_0$ is a truth
@@ -474,7 +474,7 @@ Define by recursion a function
 $v:\mathcal{L}(\neg,\vee,\wedge,\to)\to \{0,1\}$ that assigns to every
 sentence it's truth value, assuming that the propositional letters have
 truth values given by $v_0$.*
-:::
+
 
 If $v_0$ is a truth assignment, we call $v$ the corresponding valuation.
 
@@ -491,7 +491,7 @@ induction*
 
 3.  *For every sentence $A$, $v(A\wedge \neg A)=0$ (you do not need to
     use induction, you can use question 1).*
-:::
+
 
 ## Truth tables
 
@@ -523,7 +523,7 @@ following sentences:*
 
 2.  *Now explicitly construct each of the above sentences using the
     rules, and check your answers to part 1.*
-:::
+
 
 
 **Exercise 4.5** (Thursday 23rd Feb). *Show that tho following
@@ -534,7 +534,7 @@ entailments hold:*
 2.  *$(A\wedge B) \models A$*
 
 3.  *$A, B\models (A\wedge B)$*
-:::
+
 
 
 **Exercise 4.6** (Tuesday 28th Feb). *Show the following:*
@@ -544,7 +544,7 @@ entailments hold:*
 2.  *If $A\models (P\wedge \neg P)$ then $A$ is a contradiction.*
 
 3.  *If $A\models B$ then $\neg B\models \neg A$*
-:::
+
 
 
 **Exercise 4.7** (Tuesday 28th Feb).
@@ -557,7 +557,7 @@ entailments hold:*
 
 3.  *Find an example where $P$ does appear in $A$, $P\models A$ but $A$
     is not a tautology.*
-:::
+
 
 
 **Exercise 4.8** (Revision exercise). *Using the truth table method, or
@@ -574,7 +574,7 @@ otherwise, evaluate the following:*
 5.  *$(P\to (Q\to R)), (P\to Q)\models (P\to R)$*
 
 6.  *$(P\to \neg Q)\models (Q\to \neg P)$*
-:::
+
 
 ## Truth-functional completeness
 
@@ -606,12 +606,12 @@ one, ternary have arity three, and so on.
     truth table must be different from $\wedge$, $\vee$ and $\to$.*
 
 3.  *Make up your own ternary connective.*
-:::
+
 
 
 **Exercise 4.10** (Tuesday 28th March). *For each of the connectives you
 made up, try to define it in terms of $\wedge$, $\neg$ and $\vee$.*
-:::
+
 
 
 **Exercise 4.11** (Thursday 30 (not for presentation -- we did this in
@@ -630,7 +630,7 @@ sentences (see section 6).*
 
 3.  *Using a similar strategy, show that $\{\vee,\wedge, \to\}$ is not
     truth functionally complete.*
-:::
+
 
 
 **Exercise 4.12** (Thursday 30).
@@ -644,7 +644,7 @@ sentences (see section 6).*
 2.  *Explain why this means that $\{\neg\}$ is not truth-functionally
     complete: there are truth functional connectives that cannot be
     defined from $\neg$ alone.*
-:::
+
 
 It turns out that every truth functional connective can be defined from
 $\wedge$, $\neg$ and $\vee$. Suppose that $C$ is an $n$-ary truth
@@ -672,7 +672,7 @@ defining $C$ from $\neg$, $\wedge$ and $\vee$:
 $\uparrow$ and $\downarrow$, that are each truth-functionally complete
 all on their own (thus, for instance, every truth functional connective
 can be defined from just $\uparrow$. Attempt to find one of these?*
-:::
+
 
 
 **Exercise 4.14** (April 11). *This exercise is very challenging, but
@@ -682,7 +682,7 @@ have a go anyway.*
 $B$ have the same truth value (i.e. it has T in the TT and FF part of
 the truth table, and F in the TF and FT parts). Show that
 $\{\neg, \leftrightarrow\}$ is not truth functionally complete.*
-:::
+
 
 # Soundness and completeness
 
@@ -752,7 +752,7 @@ that instance.*
 2.  *$(P\to \neg P)\to ((\neg P\to P)\to (P\to \neg P))$*
 
 3.  *$(P \to ((Q\to P)\to Q)) \to ((P\to (Q\to P)) \to (P\to Q))$*
-:::
+
 
 
 **Exercise 5.2** (Tuesday April 18). *Show the following*
@@ -763,13 +763,13 @@ that instance.*
 
 3.  *$A\to B, B\to C\vdash A\to C$ (hint: first try to show
     $A\to (B\to C)$ using A1.)*
-:::
+
 
 
 **Exercise 5.3** (Tuesday April 18). *This is question is slightly more
 challenging. Show $\vdash (P\to P)$. You do not need to use A3 in this
 proof.*
-:::
+
 
 ## Soundness and Completeness
 
@@ -788,7 +788,7 @@ discussed in class on Thursday.*
 3.  *Is your axiom system sound?*
 
 4.  *Do you think your axiom system is complete?*
-:::
+
 
 
 **Exercise 5.5** (Thursday 30th March). *The axiom systems you provide
@@ -805,7 +805,7 @@ class.*
     which you suspect cannot be derived. (In this question you do not
     need to prove that the sentence cannot be derived -- that is a
     harder task.)*
-:::
+
 
 
 **Exercise 5.6** (Thursday 30th March). *Assume that the system A1-A3 is
@@ -816,7 +816,7 @@ sound.*
 
 2.  *Show similarly that you cannot prove $P\to Q$ from $P$. I.e.
     $P\not\vdash P\to Q$*
-:::
+
 
 
 **Exercise 5.7**. *In this question you will prove the soundness of the
@@ -836,7 +836,7 @@ axiom system A1-A3.*
 
 3.  *Using the previous question, explain why it follows that if
     $A_1...A_n\vdash B$ then $A_1...A_n\models B$.*
-:::
+
 
 ## Proof of the soundness theorem
 
@@ -850,35 +850,35 @@ example, if the new rule was: you may write $(A\wedge B)$ provided $A$
 and $B$ have appeared earlier in the proof, you would need to show that
 every valuation that makes $A$ and $B$ true make $(A\wedge B)$ true.)
 
-::: lemma
+ lemma
 **Lemma 5.1** (The axioms are tautologies). *Every instance of A1, A2
 and A3 is a tautology.*
-:::
 
-::: proof
+
+ proof
 *Proof.* This can be proved, for example, by using the truth table
 method. ◻
-:::
 
-::: lemma
+
+ lemma
 **Lemma 5.2** (The rules preserve truth). *If $v$ is a valuation,
 $v(A)=1$ and $v(A\to B)=1$ then $v(B)=1$. (In other words
 $A,A\to B \models B$.)*
-:::
 
-::: proof
+
+ proof
 *Proof.* If $v(A\to B)=1$ then either $v(A)=0$ or $v(B)=1$. But
 $v(A)\not= 0$ since $v(A)=1$, so $v(B)=1$. ◻
-:::
 
-::: lemma
+
+ lemma
 **Lemma 5.3**. *Let $v$ be a fixed valuation such that
 $v(A_1)=...=v(A_n) = 1$. If $t$ is a derivation from the premises
 $A_1...A_n$ (i.e. a sequence of sentences given by the rules), then
 every sentence in $t$ is true in $v$.*
-:::
 
-::: proof
+
+ proof
 *Proof.* Assume that $v$ is avaluation and that $v(A_1)=...=v(A_n) = 1$.
 We will show by induction that any proof using only assumptions from
 $A_1...A_n$ will be a sequence of sentences that are all true in $v$.
@@ -902,14 +902,14 @@ We want to show that every sentence in $(B:t)$ is true in $v$, where $A$
 and $A\to B$ appear in $t$. Since $t$ consistent of sentences that are
 true in $v$, $v(A)=1$ and $v(A\to B)=1$. By the second lemma, it follows
 that $v(B)=1$, so every sentence in $(B:t)$ is true in $v$. ◻
-:::
 
-::: theorem
+
+ theorem
 **Theorem 5.4** (The soundness theorem). *If $A_1...A_n\vdash B$ then
 $A_1...A_n\models B$.*
-:::
 
-::: proof
+
+ proof
 *Proof.* Suppose that $A_1...A_n\vdash B$. We want to show that any
 valuation that makes $A_1...A_n$ true makes $B$ true.
 
@@ -921,20 +921,20 @@ sentence appearing in $t$ is true in $v$, so $v(B)=1$.
 
 Since $v$ was arbitrary, every valuation that makes $A_1...A_n$ true
 must make $B$ true. Thus $A_1...A_n\models B$. ◻
-:::
 
-::: theorem
+
+ theorem
 **Theorem 5.5** (The deduction theorem). *If $A_1,...,A_n,B\vdash C$
 then $A_1,...,A_n\vdash (B\to C)$.*
-:::
 
-::: proof
+
+ proof
 *Proof.* Proof sketch: roughly, by prefixng $A\to$ to each line of a
 proof of $C$ from $A_1...,A_n,B$ we get a sequence of sentences all of
 which can be proven from $A_1...A_n$.
 
 Proof is by induction on proofs. ◻
-:::
+
 
 
 **Exercise 5.8** (Practice questions). *Establish the following using
@@ -950,7 +950,7 @@ the completeness theorem*
     previous showed $A\to B, B\to C\vdash A\to C$).*
 
 2.  *$\vdash (A\to ((A\to B) \to ((B\to C) \to C)$.*
-:::
+
 
 
 **Exercise 5.9** (Practice questions). *Determine whether the following
@@ -965,7 +965,7 @@ appealing to the soundness theorem.*
 3.  *$\vdash (P\to Q)\to (P\to (R\to Q))$.*
 
 4.  *$\vdash (P\to (R\to Q)) \to (P\to Q)$.*
-:::
+
 
 (ANSWER for part a:
 
