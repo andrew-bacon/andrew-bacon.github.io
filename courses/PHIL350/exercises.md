@@ -101,7 +101,7 @@ and then four*, etc.).*
 
 2.  $\mathbb{N}^\*$
 
-3.  $\\{$Alice, Bob, Carol\\}^\*$
+3.  $\{$Alice, Bob, Carol\}^\*$
 
 4.  $(\mathbb{N}^\*)^\*$
 
@@ -231,7 +231,7 @@ $length:\mathcal{L}(\neg,\wedge)\to \mathbb{N}$ that maps a sentence to
 the length of the sentence.*
 
 
-## Definition by recursion on $A^*$
+## Definition by recursion on $A^\*$
 
 Example: if you want to define the length of a sequence it is sufficient
 to define the length of the empty sequence, $\epsilon$, and the length
@@ -252,14 +252,14 @@ two equations like this.
 **Exercise 2.4** (Tuesday January 31st). *Define the following functions
 by recursion on sequences.*
 
-1.  *$length:\mathbb{N}^*\to \mathbb{N}$ that maps a sequence to the
-    length of the sequence.*
+1.  $length:\mathbb{N}^\*\to \mathbb{N}$ that maps a sequence to the
+    length of the sequence.
 
 2.  *Define (by recursion) the operation
-    $post(3):\mathbb{N}^*\to \mathbb{N}^*$ that takes a sequence $s$ of
+    $post(3):\mathbb{N}^\*\to \mathbb{N}^\*$ that takes a sequence $s$ of
     natural numbers and puts $3$ at the end.*
 
-3.  *$s^*:\mathbb{N}^*\to \mathbb{N}^*$ that takes a sequence of numbers
+3.  *$s^\*:\mathbb{N}^\*\to \mathbb{N}^\*$ that takes a sequence of numbers
     and returns the sequence you get by adding 1 to each element of the
     sequence.*
 
@@ -294,10 +294,10 @@ questions*
 **Exercise 2.6**. *Define the following unary functions by recursion.
 You may appeal to any functions you have defined in previous questions*
 
-1.  *$ladd:\mathbb{N}^*\to \mathbb{N}$ that takes a sequence of numbers
+1.  *$ladd:\mathbb{N}^\*\to \mathbb{N}$ that takes a sequence of numbers
     and adds them together.*
 
-2.  *$lmust:\mathbb{N}^*\to \mathbb{N}$ that takes a sequence of numbers
+2.  *$lmust:\mathbb{N}^\*\to \mathbb{N}$ that takes a sequence of numbers
     and multiplies them together.*
 
 
