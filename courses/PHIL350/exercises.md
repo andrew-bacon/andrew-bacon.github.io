@@ -97,15 +97,15 @@ build trees that can branch two or three times at each node.*
 sequences, use the above notation (i.e. $(1,4)$ for the sequence *one
 and then four*, etc.).*
 
-1.  $\mathbb{N}
+1.  $\mathbb{N}$
 
-2.  $\mathbb{N}^*$
+2.  $\mathbb{N}^\*$
 
-3.  $\{$Alice, Bob, Carol$\}^*$
+3.  $\\{$Alice, Bob, Carol\\}^\*$
 
-4.  $(\mathbb{N}^*)^*$
+4.  $(\mathbb{N}^\*)^\*$
 
-5.  $(\emptyset^*)^*$
+5.  $(\emptyset^\*)^\*$
 
 
 There are two rules for constructing sequences of numbers:
@@ -177,7 +177,7 @@ only present the last answer, as we did the other two in class.)*
 2.  *$double:\mathbb{N}\to \mathbb{N}$, the operation that doubles a
     number: $double(n)=2n$.*
 
-3.  *$power2:\mathbb{N}\to \mathbb{N}$, the operation that doubles 1 $n$
+3.  *$power2:\mathbb{N}\to \mathbb{N}$, the operation that doubles 1 n
     times (i.e. $power2(n)=2^n$).*
 
 *HINT: Remember that you can use $s$ and $0$, as well as any definitions
