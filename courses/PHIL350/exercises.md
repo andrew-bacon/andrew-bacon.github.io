@@ -101,7 +101,7 @@ and then four*, etc.).*
 
 2.  $\mathbb{N}^\*$
 
-3.  $\{$Alice, Bob, Carol\}^\*$
+3.  $\{Alice, Bob, Carol\}^\*$
 
 4.  $(\mathbb{N}^\*)^\*$
 
@@ -294,11 +294,11 @@ questions*
 **Exercise 2.6**. *Define the following unary functions by recursion.
 You may appeal to any functions you have defined in previous questions*
 
-1.  *$ladd:\mathbb{N}^\*\to \mathbb{N}$ that takes a sequence of numbers
-    and adds them together.*
+1.  $ladd:\mathbb{N}^\*\to \mathbb{N}$ that takes a sequence of numbers
+    and adds them together.
 
-2.  *$lmust:\mathbb{N}^\*\to \mathbb{N}$ that takes a sequence of numbers
-    and multiplies them together.*
+2.  $lmust:\mathbb{N}^\*\to \mathbb{N}$ that takes a sequence of numbers
+    and multiplies them together.
 
 
 Definition by recursion on trees is similar. To define an operation
@@ -541,7 +541,7 @@ entailments hold:*
 
 1.  *If $A\models B$ and $B\models C$ then $A\models C$.*
 
-2.  *If $A\models (P\wedge \neg P)$ then $A$ is a contradiction.*
+2.  *If $A\models (P\wedge \neg P)$ then $A$ is a contradiction. (A contradiction is a sentence which is false in every valuation: $v(A)=0$ for every valuation $v$.)* 
 
 3.  *If $A\models B$ then $\neg B\models \neg A$*
 
