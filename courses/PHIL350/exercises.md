@@ -553,7 +553,7 @@ entailments hold:*
     valuations that agree on the letters in $A$, then $v(A)=u(A)$.*
 
 2.  *Show that if $P\models A$ and $P$ doesn't appear in $A$, then $A$
-    is a tautology.*
+    is a tautology. (A tautology is a sentence which is true in every valuation: $v(A)=1$ for every valuation $v$.*
 
 3.  *Find an example where $P$ does appear in $A$, $P\models A$ but $A$
     is not a tautology.*
