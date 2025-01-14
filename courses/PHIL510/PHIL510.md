@@ -37,7 +37,7 @@ Parts I and II of my book, and the first couple of chapters of the second will b
 
 ## Links
 
-| [dropbox](https://www.dropbox.com/scl/fo/mk58np4vx4cpdol8scff9/AObM-CpVLb5Dl-1IvHMgB4k?rlkey=2h0weynh45d2f1tvpe28hlxap&dl=0) | [signup sheet](https://docs.google.com/spreadsheets/d/1YdSSYrOmpenrK_OVyqNE_aUByKe2w4kmitSEc86vXVg/edit?usp=sharing) | [guidelines for writing a paper proposal](./guidelines) |
+| [dropbox](https://www.dropbox.com/scl/fo/mk58np4vx4cpdol8scff9/AObM-CpVLb5Dl-1IvHMgB4k?rlkey=2h0weynh45d2f1tvpe28hlxap&dl=0) | [signup sheet](https://docs.google.com/spreadsheets/d/1GfTexXCTgcf12xfj7RwC4kcszIyPDLrjV5h0RVyBXS0/edit?usp=sharing) | [guidelines for writing a paper proposal](./guidelines) |
 
 ## Course description
 
