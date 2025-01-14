@@ -4,7 +4,7 @@ src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLor
 https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 </head>
 
-# PHIL 450: Logic, Mathematics and Metaphysics
+# PHIL 510: Logic, Mathematics and Metaphysics
 
 ## Time and place
 
@@ -37,7 +37,7 @@ Parts I and II of my book, and the first couple of chapters of the second will b
 
 ## Links
 
-| [dropbox](https://www.dropbox.com/scl/fo/o43gpj56sm9vl4qihrlnl/AK80dOf56w2C2_zoNiiGs68?rlkey=ja8m46cywyfeubyyg4x3d0gag&dl=0) | [signup sheet](https://docs.google.com/spreadsheets/d/1YdSSYrOmpenrK_OVyqNE_aUByKe2w4kmitSEc86vXVg/edit?usp=sharing) | [guidelines for writing a paper proposal](./guidelines) |
+| [dropbox](https://www.dropbox.com/scl/fo/mk58np4vx4cpdol8scff9/AObM-CpVLb5Dl-1IvHMgB4k?rlkey=2h0weynh45d2f1tvpe28hlxap&dl=0) | [signup sheet](https://docs.google.com/spreadsheets/d/1YdSSYrOmpenrK_OVyqNE_aUByKe2w4kmitSEc86vXVg/edit?usp=sharing) | [guidelines for writing a paper proposal](./guidelines) |
 
 ## Course description
 
