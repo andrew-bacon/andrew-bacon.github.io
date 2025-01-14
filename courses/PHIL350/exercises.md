@@ -773,6 +773,10 @@ proof.*
 
 ## Soundness and Completeness
 
+An axiom system $S$ is sound when the following holds: whenever $A_1,\ldots, A_n\vdash_S B$, $A_1,\ldots, A_n \models B$
+
+An axiom system $S$ is complete when the following holds: whenever $A_1,\ldots, A_n\models B$, $A_1,\ldots, A_n \vdash_S B$
+
 
 **Exercise 5.4** (Thursday 30th March). *In this exercise you will
 create your own axiom system. It must be different than the ones we
@@ -831,7 +835,7 @@ axiom system A1-A3.*
 2.  *Let $v$ be valuation and $\{A_1...A_n\}$ a set of assumptions such
     that $v(A_1)=...=v(A_n)=1$. Prove by induction that if $t$ is a
     derivation from the assumptions $\{A_1...A_n\}$ then all of the
-    elements of $t$ are true. (You should consult the rules constructing
+    elements of $t$ are true in $v$. (You should consult the rules constructing
     derivations on p13).*
 
 3.  *Using the previous question, explain why it follows that if
