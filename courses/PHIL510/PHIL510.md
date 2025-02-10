@@ -95,12 +95,22 @@ Topics are subject to change.
 	- The extensionalist world view. Classes. 
 	- Frege "On Sense and Reference"
 	- Carnap (Aufbau sections 43-45)
-	- Wittgenstein (Tractatus section 5.54), 
+	- Wittgenstein (Tractatus section 5.54), Roger White "Wittgensteins Tractatus Logico Philosophicus" p97 on section 5.54
 	- Russell and Whitehead (Principia Mathematica Vol 1. p76ff).
+
 
 - **Topic 2** Abstractionism about abstract objects.
 
-	- Frege, Fine, Linnebo.
+	- Boolos "Gottlob Frege and the Foundations of arithmetic."
+	- Boolos "Saving Frege from Contradiction."
+	- Russell's letter to Frege and Frege's response. 124-129 of van Heijenoort.
+	- Linnebo and Uzquiano: "Which Abstraction Principles Are Acceptable? Some Limitative Results"
+	- Shapiro and Uzquiano: "Ineffability within the Limits of Abstraction Alone"
+	-Heck "The existence (and non-existence) of abstract objects"
+	- Further reading section 3 of [the SEP article on Frege's logic](https://plato.stanford.edu/entries/frege-logic/#LogiGrun)
+	- Further reading: Kit Fine, "The Limits of Abstraction"
+	- Wright and Hale. "The Reasons Proper Study".
+	- Ebert and Rossberg. " Abstractionism: Essays in Philosophy of Mathematics "
 
 
 - **Topic 3**. Structuralism.
