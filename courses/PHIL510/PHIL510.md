@@ -115,11 +115,19 @@ Topics are subject to change.
 
 - **Topic 3**. Structuralism.
 
-	- Dedekind. Benecerraf. Shapiro. Parsons.
+	- Dedekind "Was sind und was sollen die Zahlen?". Translation in Ewald vol. 2. 
+	- Benecerraf "What Numbers Could not Be"
+	- Parsons "The Structuralist View of Mathematical Objects"
+	- Shapiro "Mathematics and Reality"
+	- Resnik. "Mathematics as a Science of Patterns: Ontology and Reference"
+	- Resnik. "Structuralism in the Philosophy of Mathematics" SEP article.
 
 - **Topic 4**. Modal Logicism and Modal Structuralism
 
-	- Hellman, Putnam, Berry, Bacon. 
+	- Putnam "Mathematics without foundations".
+	- Hellman "Structuralism without Structures"
+	- Further reading: Sharon Berry "A logical foundation for potentialist set theory" part 1.
+	- Bacon "Logicist Set Theory: Interpreting ZFC in pure higher-order logics with Humean axioms."
 
 	
 - **Topic 5**. Set Theory
