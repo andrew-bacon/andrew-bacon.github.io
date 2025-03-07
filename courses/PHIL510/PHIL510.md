@@ -125,30 +125,42 @@ Topics are subject to change.
 - **Topic 4**. Modal Logicism and Modal Structuralism
 
 	- Putnam "Mathematics without foundations".
-	- Hellman "Structuralism without Structures"
-	- Further reading: Sharon Berry "A logical foundation for potentialist set theory" part 1.
+
+	- Sharon Berry "A logical foundation for potentialist set theory" part 1.
+	- Further reading: Hellman "Mathematics without Numbers"
 	- Bacon "Logicist Set Theory: Interpreting ZFC in pure higher-order logics with Humean axioms."
 
 	
 - **Topic 5**. Set Theory
 
-	- Cantor, Zermelo, Dummett, Uzquiano.
+	- Aristotle Metaphysics, Book IX, chapter 10.
+	- Cantor "Foundations of a General Theory of Manifolds: A Mathematico-Philosophical  Investigation into the Theory of The Infinite" (Ewald p887)
+	- The Cantor Dedekind correspondence and the Cantor Hilbert Correspondence (Ewald p.926ff)
+	- Zermelo "Investigations in the Foundations of Set Theory" (van Heijenoort)
+	- Zermelo "On boundary numbers and domains of sets: new investigations in the foundations of set theory" (Ernst Zermelo: Collected Works Vol I)
+	- Bacon "Zermelian Extensibility"
+
+- **Topic 6**. Modal approaches to set theory. 
+
+	- Dummett, Uzquiano.
+	- Parsons, Linnebo, Studd,
+	
 
 
-- **Topic 6**. Modality.
+- **Topic 7**. Modality.
 
 	- Recombination: Hume, Wittgenstein, Armstrong, Lewis, Russell and Hawthorne, Bacon, Berry. 
 	- The necessity of mathematics. Leitgeb, Goodsell.
 
-- **Topic 7**. Nominalism.
+- **Topic 8**. Nominalism.
 
 	- Field, Dorr, Prior. 
 
-- **Topic 8**. Height potentialism.
+- **Topic 9**. Height potentialism.
 	
 	- Linnebo, Studd. 
 
-- **Topic 9** Width potentialism.
+- **Topic 10** Width potentialism.
 	
 	- Hamkins, Scambler, Roberts, Bacon.
 
