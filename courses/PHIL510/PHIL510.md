@@ -17,7 +17,7 @@ Wednesdays, 4:30-6:50. MHP 102.
 
 ## Textbook
 
-There is no specific textbook for the course, but here are some useful resources.
+We will primarily be reading from the following two collections:
 
 *From Frege to Godel*. van Heijenoort.
 
@@ -29,7 +29,7 @@ For technical background on higher-order and modal logic:
 
 *A New Introduction to Modal Logic*. Hughes and Cresswell.
 
-Parts I and II of my book, and the first couple of chapters of the second will be more than enough for what we will need.
+Parts I and II of my book, and the first couple of chapters of Hughes and Cresswell will be more than enough for what we will need.
 
 
 
@@ -142,14 +142,20 @@ Topics are subject to change.
 
 - **Topic 6**. Modal approaches to set theory. 
 
-	- Dummett, Uzquiano.
-	- Parsons, Linnebo, Studd,
-	
+	- Linnebo "The Potential Hierarchy of sets"
+	- Studd  "The Iterative Conception of Set"
+	- Parsons "Sets and Modality"
+	- Dummett "The philosophical Basi of Intuitionistic Logic"
+	- Uzquiano "Variaties of indefinite extensibility"
+		
 
 
 - **Topic 7**. Modality.
-
-	- Recombination: Hume, Wittgenstein, Armstrong, Lewis, Russell and Hawthorne, Bacon, Berry. 
+	
+	- Part I of Berry "A Logical Foundation for potentialist set theory".
+	- Part II of Berry "A Logical Foundation for potentialist set theory".
+	
+	- Recombination: Hume, Wittgenstein, Armstrong, Lewis, Russell and Hawthorne, Bacon.
 	- The necessity of mathematics. Leitgeb, Goodsell.
 
 - **Topic 8**. Nominalism.
