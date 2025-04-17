@@ -137,7 +137,7 @@ Topics are subject to change.
 	- Cantor "Foundations of a General Theory of Manifolds: A Mathematico-Philosophical  Investigation into the Theory of The Infinite" (Ewald p887)
 	- The Cantor Dedekind correspondence and the Cantor Hilbert Correspondence (Ewald p.926ff)
 	- Zermelo "Investigations in the Foundations of Set Theory" (van Heijenoort)
-	- Zermelo "On boundary numbers and domains of sets: new investigations in the foundations of set theory" (Ernst Zermelo: Collected Works Vol I)
+	- Zermelo "On boundary numbers and domains of sets: new investigations in the foundations of set theory" (Ewald)
 	- Bacon "Zermelian Extensibility"
 
 - **Topic 6**. Modal approaches to set theory. 
@@ -145,7 +145,7 @@ Topics are subject to change.
 	- Linnebo "The Potential Hierarchy of sets"
 	- Studd  "The Iterative Conception of Set"
 	- Parsons "Sets and Modality"
-	- Dummett "The philosophical Basi of Intuitionistic Logic"
+	- Dummett "The philosophical Basis of Intuitionistic Logic"
 	- Uzquiano "Variaties of indefinite extensibility"
 		
 
@@ -155,7 +155,10 @@ Topics are subject to change.
 	- Part I of Berry "A Logical Foundation for potentialist set theory".
 	- Part II of Berry "A Logical Foundation for potentialist set theory".
 	
-	- Recombination: Hume, Wittgenstein, Armstrong, Lewis, Russell and Hawthorne, Bacon.
+	- Russell and Hawthorne "Possible Patterns"
+	- Bacon "Logical Combinatorialism.
+	
+	- Background: Hume, Wittgenstein, Armstrong, Lewis.
 	- The necessity of mathematics. Leitgeb, Goodsell.
 
 - **Topic 8**. Nominalism.
