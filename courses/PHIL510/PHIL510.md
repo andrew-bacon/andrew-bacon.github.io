@@ -163,7 +163,10 @@ Topics are subject to change.
 
 - **Topic 8**. Nominalism.
 
-	- Field, Dorr, Prior. 
+	- Prior, "Platonism and Quantification", Chapter 3 of "the objects of thought".
+	- Field, Introduction to "Realism, Mathematics and Modality"
+	- Field "Science without Numbers", Preface, premilimanry remarks, and chapters 1 and 2.
+	- Dorr "On numbers and electrons" 
 
 - **Topic 9**. Height potentialism.
 	
