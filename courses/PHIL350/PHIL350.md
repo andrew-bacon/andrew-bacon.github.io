@@ -8,11 +8,11 @@ https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 
 ## Time and place
 
-Tuesdays and Thursdays 12:30-1:50. MHP B7B
+Tuesdays and Thursdays 9:30-10:50. WPHB30 
 
 ## Contact
 
-| office: 224 STO | email: abacon@usc.edu | in person office hours: Tuesdays 2-3 | [zoom](https://usc.zoom.us/s/3587631632) office hours: Wednesday 9-10 (by appointment) |
+| office: 224 STO | email: abacon@usc.edu | in person office hours: Thursday 2-3pm (by appointment) | [zoom](https://usc.zoom.us/s/3587631632) office hours: Wednesday 9-10 (by appointment) |
 
 ## Texts
 

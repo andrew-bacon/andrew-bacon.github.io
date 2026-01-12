@@ -8,12 +8,12 @@ https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 
 ## Time and place
 
-Thursdays, 2:00-4:50. TTH 215.
+Thursdays, 12:30-1:50. TTH 108.
 
 
 ## Contact
 
-| Andrew Bacon | office: 224 STO | email: abacon@usc.edu | in person office hours: Thursdays 5-6 | [zoom](https://usc.zoom.us/s/3587631632) office hours: Wednesday 9-10 by appointment |
+| Andrew Bacon | office: 224 STO | email: abacon@usc.edu | in person office hours: Thursdays 2-3 (by appointment) | [zoom](https://usc.zoom.us/s/3587631632) office hours: Wednesday 9-10 by appointment |
 
 ## Textbook
 
