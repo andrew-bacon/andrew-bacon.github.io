@@ -52,11 +52,11 @@ PHIL 350, PHIL 222. The prerequisites may be waived if the student can demonstra
 	- If you can provide a reason that you will not complete the exercises by the deadline, let me know *in advance*, and we can discuss an extension.
 	
 - Final Project: 5% + 25%
-	- Proposal: 5%. Due November 18.
+	- Proposal: 5%. Due April 14.
 	
 		Submit a detailed proposal of what you intend to do your final project on.
 
-	- Final project: 25%. Due December 6th. 
+	- Final project: 25%. Due May 1st. 
 
 
 
