@@ -4,7 +4,7 @@ src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLor
 https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 </head>
 
-# PHIL 450: Higher-order Logic
+# PHIL 451: Higher-order Logic
 
 ## Time and place
 
