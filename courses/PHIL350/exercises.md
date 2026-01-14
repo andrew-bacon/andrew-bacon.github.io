@@ -24,7 +24,7 @@ can build the thing under the line. When nothig appears above the line,
 this means you can always build the thing underneath the line.
 
 
-**Exercise 1.1** (Tuesday 17th Jan). *Which of the following are natural
+**Exercise 1.1** (). *Which of the following are natural
 numbers that can be built with our rules? For the ones that are, show
 that they are using the two rules, 1 and 2, or as a derivation using
 horizontal lines.*
@@ -41,7 +41,7 @@ horizontal lines.*
 
 
 
-**Exercise 1.2** (Tuesday 17th Jan). *Try to think up some rules that
+**Exercise 1.2** (). *Try to think up some rules that
 will generate *expressions* for natural numbers in Arabic notation. Show
 how to generate $148$ using your rules.*
 
@@ -57,7 +57,7 @@ The rules for making sentences.
 $\frac{\qquad}{P_i} \qquad \frac{A \qquad B}{(A\wedge B)} \qquad \frac{\qquad A \qquad}{\neg A} \qquad \frac{A \qquad B}{(A\vee B)} \qquad \frac{A \qquad B}{(A\to B)}$
 
 
-**Exercise 1.3** (Tuesday 17th Jan). *Which of the following are
+**Exercise 1.3** (). *Which of the following are
 sentences of propositional logic? If it is a sentence give a derivation
 of it.*
 
@@ -166,7 +166,7 @@ equations:
 -   $f(sn)= \ldots f(n) \ldots$
 
 
-**Exercise 2.1** (Tuesday January 31st). *Define the following functions
+**Exercise 2.1** (). *Define the following functions
 by recursion. You may appeal to any functions you have defined in
 previous questions. (NOTE: if you sign up for this exercise you will
 only present the last answer, as we did the other two in class.)*
@@ -185,7 +185,7 @@ you've made in previous questions.*
 
 
 
-**Exercise 2.2** (Tuesday January 31st). *Given your above definitions,
+**Exercise 2.2** (). *Given your above definitions,
 simplify $add2(ss0)$, $double(ss0)$ and $power2(ss0)$. (An expression is
 fully simplified when it is a natural number, i.e. a sequence of $s$s
 followed by a $0$. In the last case, you may need to appeal to your
@@ -226,7 +226,7 @@ it is often convenient to work in a restricted language because there
 are fewer clauses to write down.
 
 
-**Exercise 2.3** (Tuesday January 31st). *Define a function
+**Exercise 2.3** (). *Define a function
 $length:\mathcal{L}(\neg,\wedge)\to \mathbb{N}$ that maps a sentence to
 the length of the sentence.*
 
@@ -249,7 +249,7 @@ when defining a function by recursion on strings you should always have
 two equations like this.
 
 
-**Exercise 2.4** (Tuesday January 31st). *Define the following functions
+**Exercise 2.4** (). *Define the following functions
 by recursion on sequences.*
 
 1.  $length:\mathbb{N}^\*\to \mathbb{N}$ that maps a sequence to the
@@ -351,7 +351,7 @@ what property you are attempting to show all numbers possess.
 Definition of add: $add(k,0)=k$, $add(k,sn)=s\, add(k,n)$
 
 
-**Exercise 3.1** (Tuesday 7th February: when you sign up sign up for
+**Exercise 3.1** (when you sign up sign up for
 part a), b) or c)).
 
 1.  *Show by induction that $add(0,m)=m$. (Note that $add(m,0)=m$ is
@@ -373,7 +373,7 @@ Recall the definition of $mult$: $mult(k, 0)=0$,
 $mult(k,sn)=add(mult(k,n),k)$
 
 
-**Exercise 3.2** (Tuesday 7th February: when you sign up sign up for
+**Exercise 3.2** (: when you sign up sign up for
 part a), b) or c)).
 
 1.  *Show by induction that $mult(0,n)=0$.*
@@ -439,7 +439,7 @@ and the recursive definition of on $rev$:
 -   $rev(a:t) = rev(t)\oplus (a:\epsilon)$
 
 
-**Exercise 3.4** (Thursday February 9). *Show the following by induction
+**Exercise 3.4** (). *Show the following by induction
 on sequences*
 
 1.  *$t\oplus \epsilon = t$*
@@ -457,7 +457,7 @@ on sequences*
 ## The Propositional Calculus (Propositional Logic)
 
 
-**Exercise 4.1** (Thursday 16th of Feb). *A sentence is balanced if it
+**Exercise 4.1** (). *A sentence is balanced if it
 has the same number of $($ symbols as $)$ symbols.*
 
 1.  *Define two functions by recursion, $leftcount$ and $rightcount$,
@@ -468,7 +468,7 @@ has the same number of $($ symbols as $)$ symbols.*
 
 
 
-**Exercise 4.2** (Thursday 16th Feb). *Suppose that $v_0$ is a truth
+**Exercise 4.2** (). *Suppose that $v_0$ is a truth
 assignment: a function that maps each sentence letter to a $0$ or a $1$.
 Define by recursion a function
 $v:\mathcal{L}(\neg,\vee,\wedge,\to)\to \{0,1\}$ that assigns to every
@@ -479,7 +479,7 @@ truth values given by $v_0$.*
 If $v_0$ is a truth assignment, we call $v$ the corresponding valuation.
 
 
-**Exercise 4.3** (Thursday 16th). *Suppose that $v_0$ is a truth
+**Exercise 4.3** (). *Suppose that $v_0$ is a truth
 assignment, and $v$ is a corresponding valuation. Prove the following by
 induction*
 
@@ -526,7 +526,7 @@ following sentences:*
 
 
 
-**Exercise 4.5** (Thursday 23rd Feb). *Show that tho following
+**Exercise 4.5** (). *Show that tho following
 entailments hold:*
 
 1.  *$A \models (A\vee B)$*
@@ -537,7 +537,7 @@ entailments hold:*
 
 
 
-**Exercise 4.6** (Tuesday 28th Feb). *Show the following:*
+**Exercise 4.6** (). *Show the following:*
 
 1.  *If $A\models B$ and $B\models C$ then $A\models C$.*
 
@@ -547,7 +547,7 @@ entailments hold:*
 
 
 
-**Exercise 4.7** (Tuesday 28th Feb).
+**Exercise 4.7** ().
 
 1.  *Prove by induction on sentences that if $v$ and $u$ are two
     valuations that agree on the letters in $A$, then $v(A)=u(A)$.*
@@ -596,7 +596,7 @@ a sentence. Binary operations have an arity of two, unary have arity
 one, ternary have arity three, and so on.
 
 
-**Exercise 4.9** (Tuesday 28th March).
+**Exercise 4.9** ().
 
 1.  *Make up your own unary truth functional connective. This involves
     making up a symbol for it, and saying what its truth table is. It
@@ -609,13 +609,12 @@ one, ternary have arity three, and so on.
 
 
 
-**Exercise 4.10** (Tuesday 28th March). *For each of the connectives you
+**Exercise 4.10** (). *For each of the connectives you
 made up, try to define it in terms of $\wedge$, $\neg$ and $\vee$.*
 
 
 
-**Exercise 4.11** (Thursday 30 (not for presentation -- we did this in
-class already)). *Let $v_0$ be the truth assignment that makes every
+**Exercise 4.11** (). *Let $v_0$ be the truth assignment that makes every
 propositional letter true. Let $v$ be the extension of $v_0$ to
 sentences (see section 6).*
 
@@ -633,7 +632,7 @@ sentences (see section 6).*
 
 
 
-**Exercise 4.12** (Thursday 30).
+**Exercise 4.12** ().
 
 1.  *Prove by induction that if $A$ is a sentence of
     $\mathcal{L}(\neg)$, then there exists a letter, $P$, such that for
@@ -668,14 +667,14 @@ defining $C$ from $\neg$, $\wedge$ and $\vee$:
     define .
 
 
-**Exercise 4.13** (April 11). *There exists two binary connectives,
+**Exercise 4.13** (). *There exists two binary connectives,
 $\uparrow$ and $\downarrow$, that are each truth-functionally complete
 all on their own (thus, for instance, every truth functional connective
 can be defined from just $\uparrow$. Attempt to find one of these?*
 
 
 
-**Exercise 4.14** (April 11). *This exercise is very challenging, but
+**Exercise 4.14** (). *This exercise is very challenging, but
 have a go anyway.*
 
 *$A\leftrightarrow B$ is a connective that is true exactly when $A$ and
@@ -742,7 +741,7 @@ If you can prove $B$ from the assumptions $A_1...A_n$ you write
 $A_1...A_n\vdash B$.
 
 
-**Exercise 5.1** (Tuesday April 18). *The following sentences are
+**Exercise 5.1** (). *The following sentences are
 instances of axioms A1-A3. For each sentence, say which axiom it is an
 instance of, and say what $A$, $B$ (and $C$ if applicable) refer to in
 that instance.*
@@ -755,7 +754,7 @@ that instance.*
 
 
 
-**Exercise 5.2** (Tuesday April 18). *Show the following*
+**Exercise 5.2** (). *Show the following*
 
 1.  *$B \vdash (A\to B)$*
 
@@ -766,7 +765,7 @@ that instance.*
 
 
 
-**Exercise 5.3** (Tuesday April 18). *This is question is slightly more
+**Exercise 5.3** (). *This is question is slightly more
 challenging. Show $\vdash (P\to P)$. You do not need to use A3 in this
 proof.*
 
@@ -778,7 +777,7 @@ An axiom system $S$ is sound when the following holds: whenever $A_1,\ldots, A_n
 An axiom system $S$ is complete when the following holds: whenever $A_1,\ldots, A_n\models B$, $A_1,\ldots, A_n \vdash_S B$
 
 
-**Exercise 5.4** (Thursday 30th March). *In this exercise you will
+**Exercise 5.4** (). *In this exercise you will
 create your own axiom system. It must be different than the ones we
 discussed in class on Thursday.*
 
@@ -795,7 +794,7 @@ discussed in class on Thursday.*
 
 
 
-**Exercise 5.5** (Thursday 30th March). *The axiom systems you provide
+**Exercise 5.5** (). *The axiom systems you provide
 for these questions must be different from the ones we discussed in
 class.*
 
@@ -812,7 +811,7 @@ class.*
 
 
 
-**Exercise 5.6** (Thursday 30th March). *Assume that the system A1-A3 is
+**Exercise 5.6** (). *Assume that the system A1-A3 is
 sound.*
 
 1.  *Show that there is no proof from A1-A3 of $P\wedge Q$ from $P$.
@@ -855,7 +854,7 @@ and $B$ have appeared earlier in the proof, you would need to show that
 every valuation that makes $A$ and $B$ true make $(A\wedge B)$ true.)
 
  lemma
-**Lemma 5.1** (The axioms are tautologies). *Every instance of A1, A2
+**Lemma 5.1** (). *Every instance of A1, A2
 and A3 is a tautology.*
 
 
@@ -865,7 +864,7 @@ method. ◻
 
 
  lemma
-**Lemma 5.2** (The rules preserve truth). *If $v$ is a valuation,
+**Lemma 5.2** (). *If $v$ is a valuation,
 $v(A)=1$ and $v(A\to B)=1$ then $v(B)=1$. (In other words
 $A,A\to B \models B$.)*
 
@@ -909,7 +908,7 @@ that $v(B)=1$, so every sentence in $(B:t)$ is true in $v$. ◻
 
 
  theorem
-**Theorem 5.4** (The soundness theorem). *If $A_1...A_n\vdash B$ then
+**Theorem 5.4** (). *If $A_1...A_n\vdash B$ then
 $A_1...A_n\models B$.*
 
 
@@ -928,7 +927,7 @@ must make $B$ true. Thus $A_1...A_n\models B$. ◻
 
 
  theorem
-**Theorem 5.5** (The deduction theorem). *If $A_1,...,A_n,B\vdash C$
+**Theorem 5.5** (). *If $A_1,...,A_n,B\vdash C$
 then $A_1,...,A_n\vdash (B\to C)$.*
 
 
