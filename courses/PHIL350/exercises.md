@@ -57,7 +57,7 @@ The rules for making sentences.
 $\frac{\qquad}{P_i} \qquad \frac{A \qquad B}{(A\wedge B)} \qquad \frac{\qquad A \qquad}{\neg A} \qquad \frac{A \qquad B}{(A\vee B)} \qquad \frac{A \qquad B}{(A\to B)}$
 
 
-**Exercise 1.3** (). *Which of the following are
+**Exercise 1.3** (Jan 22). *Which of the following are
 sentences of propositional logic? If it is a sentence give a derivation
 of it.*
 
@@ -81,12 +81,12 @@ Binary branching trees are built by two rules.
 In class we also gave these trees a pictorial representation.
 
 
-**Exercise 1.4**. *Build four different trees using these rules. You may
+**Exercise 1.4**. (Jan 22) *Build four different trees using these rules. You may
 represent them pictorially, as we did in class.*
 
 
 
-**Exercise 1.5**. *Come up with a new set of rules from which you can
+**Exercise 1.5**. (Jan 22) *Come up with a new set of rules from which you can
 build trees that can branch two or three times at each node.*
 
 
@@ -119,7 +119,7 @@ we may represent these rules as follows:
 $\frac{\qquad}{\epsilon} \qquad \frac{\qquad s \qquad}{(n:s)} \mbox{when } n \in \mathbb{N}$
 
 
-**Exercise 1.7**. *Which of the following can be built from the rules?
+**Exercise 1.7**. (Jan 22) *Which of the following can be built from the rules?
 For those that can, give the derivations of their constructions:*
 
 1.  *$\epsilon$*
@@ -138,7 +138,7 @@ For those that can, give the derivations of their constructions:*
 
 
 
-**Exercise 1.8**. *Translate the following into the simple
+**Exercise 1.8**. (Jan 22) *Translate the following into the simple
 representation of sequences, (where e.g. *four and then seven and then
 two* is $(4,7,2)$.)*
 
