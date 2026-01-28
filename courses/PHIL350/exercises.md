@@ -166,7 +166,7 @@ equations:
 -   $f(sn)= \ldots f(n) \ldots$
 
 
-**Exercise 2.1** (). *Define the following functions
+**Exercise 2.1** (Jan 29). *Define the following functions
 by recursion. You may appeal to any functions you have defined in
 previous questions. (NOTE: if you sign up for this exercise you will
 only present the last answer, as we did the other two in class.)*
@@ -185,7 +185,7 @@ you've made in previous questions.*
 
 
 
-**Exercise 2.2** (). *Given your above definitions,
+**Exercise 2.2** (Jan 29). *Given your above definitions,
 simplify $add2(ss0)$, $double(ss0)$ and $power2(ss0)$. (An expression is
 fully simplified when it is a natural number, i.e. a sequence of $s$s
 followed by a $0$. In the last case, you may need to appeal to your
@@ -226,7 +226,7 @@ it is often convenient to work in a restricted language because there
 are fewer clauses to write down.
 
 
-**Exercise 2.3** (). *Define a function
+**Exercise 2.3** (Jan 29). *Define a function
 $length:\mathcal{L}(\neg,\wedge)\to \mathbb{N}$ that maps a sentence to
 the length of the sentence.*
 
@@ -249,7 +249,7 @@ when defining a function by recursion on strings you should always have
 two equations like this.
 
 
-**Exercise 2.4** (). *Define the following functions
+**Exercise 2.4** (Jan 29). *Define the following functions
 by recursion on sequences.*
 
 1.  $length:\mathbb{N}^\*\to \mathbb{N}$ that maps a sequence to the
@@ -267,7 +267,7 @@ by recursion on sequences.*
 ## Defining binary functions by recursion
 
 
-**Exercise 2.5**. *Define the following unary and binary functions by
+**Exercise 2.5**. (Jan 29) *Define the following unary and binary functions by
 recursion. You may appeal to any functions you have defined in previous
 questions*
 
