@@ -57,7 +57,7 @@ The rules for making sentences.
 $\frac{\qquad}{P_i} \qquad \frac{A \qquad B}{(A\wedge B)} \qquad \frac{\qquad A \qquad}{\neg A} \qquad \frac{A \qquad B}{(A\vee B)} \qquad \frac{A \qquad B}{(A\to B)}$
 
 
-**Exercise 1.3** (). *Which of the following are
+**Exercise 1.3** (Jan 22). *Which of the following are
 sentences of propositional logic? If it is a sentence give a derivation
 of it.*
 
@@ -81,12 +81,12 @@ Binary branching trees are built by two rules.
 In class we also gave these trees a pictorial representation.
 
 
-**Exercise 1.4**. *Build four different trees using these rules. You may
+**Exercise 1.4**. (Jan 22) *Build four different trees using these rules. You may
 represent them pictorially, as we did in class.*
 
 
 
-**Exercise 1.5**. *Come up with a new set of rules from which you can
+**Exercise 1.5**. (Jan 22) *Come up with a new set of rules from which you can
 build trees that can branch two or three times at each node.*
 
 
@@ -119,7 +119,7 @@ we may represent these rules as follows:
 $\frac{\qquad}{\epsilon} \qquad \frac{\qquad s \qquad}{(n:s)} \mbox{when } n \in \mathbb{N}$
 
 
-**Exercise 1.7**. *Which of the following can be built from the rules?
+**Exercise 1.7**. (Jan 22) *Which of the following can be built from the rules?
 For those that can, give the derivations of their constructions:*
 
 1.  *$\epsilon$*
@@ -138,7 +138,7 @@ For those that can, give the derivations of their constructions:*
 
 
 
-**Exercise 1.8**. *Translate the following into the simple
+**Exercise 1.8**. (Jan 22) *Translate the following into the simple
 representation of sequences, (where e.g. *four and then seven and then
 two* is $(4,7,2)$.)*
 
@@ -166,7 +166,7 @@ equations:
 -   $f(sn)= \ldots f(n) \ldots$
 
 
-**Exercise 2.1** (). *Define the following functions
+**Exercise 2.1** (Jan 29). *Define the following functions
 by recursion. You may appeal to any functions you have defined in
 previous questions. (NOTE: if you sign up for this exercise you will
 only present the last answer, as we did the other two in class.)*
@@ -185,7 +185,7 @@ you've made in previous questions.*
 
 
 
-**Exercise 2.2** (). *Given your above definitions,
+**Exercise 2.2** (Jan 29). *Given your above definitions,
 simplify $add2(ss0)$, $double(ss0)$ and $power2(ss0)$. (An expression is
 fully simplified when it is a natural number, i.e. a sequence of $s$s
 followed by a $0$. In the last case, you may need to appeal to your
@@ -226,7 +226,7 @@ it is often convenient to work in a restricted language because there
 are fewer clauses to write down.
 
 
-**Exercise 2.3** (). *Define a function
+**Exercise 2.3** (Jan 29). *Define a function
 $length:\mathcal{L}(\neg,\wedge)\to \mathbb{N}$ that maps a sentence to
 the length of the sentence.*
 
@@ -249,7 +249,7 @@ when defining a function by recursion on strings you should always have
 two equations like this.
 
 
-**Exercise 2.4** (). *Define the following functions
+**Exercise 2.4** (Jan 29). *Define the following functions
 by recursion on sequences.*
 
 1.  $length:\mathbb{N}^\*\to \mathbb{N}$ that maps a sequence to the
@@ -267,7 +267,7 @@ by recursion on sequences.*
 ## Defining binary functions by recursion
 
 
-**Exercise 2.5**. *Define the following unary and binary functions by
+**Exercise 2.5**. (Jan 29) *Define the following unary and binary functions by
 recursion. You may appeal to any functions you have defined in previous
 questions*
 
@@ -351,7 +351,7 @@ what property you are attempting to show all numbers possess.
 Definition of add: $add(k,0)=k$, $add(k,sn)=s\, add(k,n)$
 
 
-**Exercise 3.1** (when you sign up sign up for
+**Exercise 3.1** (Feb 5) (when you sign up sign up for
 part a), b) or c)).
 
 1.  *Show by induction that $add(0,m)=m$. (Note that $add(m,0)=m$ is
@@ -373,7 +373,7 @@ Recall the definition of $mult$: $mult(k, 0)=0$,
 $mult(k,sn)=add(mult(k,n),k)$
 
 
-**Exercise 3.2** (: when you sign up sign up for
+**Exercise 3.2** (Feb 5) (: when you sign up sign up for
 part a), b) or c)).
 
 1.  *Show by induction that $mult(0,n)=0$.*
