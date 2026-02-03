@@ -21,7 +21,7 @@ Thursdays, 12:30-1:50. TTH 108.
 
 ## Links
 
-| [dropbox](https://www.dropbox.com/scl/fo/o43gpj56sm9vl4qihrlnl/AK80dOf56w2C2_zoNiiGs68?rlkey=ja8m46cywyfeubyyg4x3d0gag&dl=0) | [signup sheet](https://docs.google.com/spreadsheets/d/1YdSSYrOmpenrK_OVyqNE_aUByKe2w4kmitSEc86vXVg/edit?usp=sharing) | [guidelines for writing a paper proposal](./guidelines) |
+| [dropbox](https://www.dropbox.com/scl/fo/o43gpj56sm9vl4qihrlnl/AK80dOf56w2C2_zoNiiGs68?rlkey=ja8m46cywyfeubyyg4x3d0gag&dl=0) | [signup sheet](https://docs.google.com/spreadsheets/d/1YdSSYrOmpenrK_OVyqNE_aUByKe2w4kmitSEc86vXVg/edit?usp=sharing) | [guidelines for writing a paper proposal](./guidelines) | [exercises](./exercises) |
 
 ## Course description
 
