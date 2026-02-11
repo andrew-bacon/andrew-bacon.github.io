@@ -17,8 +17,8 @@ In my Definition 3.7 of "free for x" on page 70 I intended clause 3 to have the 
 
 Without this clause, it follows that a constant (or any term that doesn't have $x$ free), $a$ is free for $x$ in $(\lambda x.Fx)$, and we would obtain the erroneous result that $(\lambda x.(\lambda x.Fx))a$ is $\beta$-equivalent to $\lambda x.Fa$. Many thanks to Rohan Sud for spotting this. Sud and Hoek also note that instead of the notion of "naive substitution" in definition 3.4 (p.65) one could have a definition that prevents substitution of a term for $x$ in contexts where $x$ is bound. Thus, one could leave definition 3.7 alone and add to definition 3.4:
 
-* Add “and x is distinct from M” to clause 4.
+* Add "and $x$ is distinct from $M$" to clause 4.
 
-* Add clause 5: λx.P[N/M]=λx.P when x=M.
+* Add clause 5: $\lambda x.P[N/M]=\lambda x.P$ when $x=M$.
 
 
