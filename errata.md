@@ -6,7 +6,7 @@ https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 
 # Errata for *A Philosophical Introduction to Higher-Order Logics*
 
-## $\beta$, $\eta$ and $\beta\eta$-equivalence
+## Definition of "Free for x" (definition 3.7)
 
 
 Rohan Sud and Daniel Hoek notified me of an error in the definitions leading up to the notion of $\beta$-equivalence. 
