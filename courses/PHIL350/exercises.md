@@ -439,7 +439,7 @@ and the recursive definition of on $rev$:
 -   $rev(a:t) = rev(t)\oplus (a:\epsilon)$
 
 
-**Exercise 3.4** (). *Show the following by induction
+**Exercise 3.4** (Feb 19, submit as assignment 6! (not 5)). *Show the following by induction
 on sequences*
 
 1.  *$t\oplus \epsilon = t$*
@@ -457,7 +457,7 @@ on sequences*
 ## The Propositional Calculus (Propositional Logic)
 
 
-**Exercise 4.1** (). *A sentence is balanced if it
+**Exercise 4.1** (Feb 19, submit as assignment 6! (not 5)). *A sentence is balanced if it
 has the same number of $($ symbols as $)$ symbols.*
 
 1.  *Define two functions by recursion, $leftcount$ and $rightcount$,
@@ -468,7 +468,7 @@ has the same number of $($ symbols as $)$ symbols.*
 
 
 
-**Exercise 4.2** (). *Suppose that $v_0$ is a truth
+**Exercise 4.2** (Feb 19, submit as assignment 6! (not 5)). *Suppose that $v_0$ is a truth
 assignment: a function that maps each sentence letter to a $0$ or a $1$.
 Define by recursion a function
 $v:\mathcal{L}(\neg,\vee,\wedge,\to)\to \{0,1\}$ that assigns to every
