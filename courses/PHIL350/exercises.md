@@ -479,7 +479,7 @@ truth values given by $v_0$.*
 If $v_0$ is a truth assignment, we call $v$ the corresponding valuation.
 
 
-**Exercise 4.3** (). *Suppose that $v_0$ is a truth
+**Exercise 4.3** (Submit as Assignment 7 before spring break, if you have not already). *Suppose that $v_0$ is a truth
 assignment, and $v$ is a corresponding valuation. Prove the following by
 induction*
 
@@ -526,7 +526,7 @@ following sentences:*
 
 
 
-**Exercise 4.5** (). *Show that tho following
+**Exercise 4.5** (Thursday March 5). *Show that tho following
 entailments hold:*
 
 1.  *$A \models (A\vee B)$*
@@ -537,7 +537,7 @@ entailments hold:*
 
 
 
-**Exercise 4.6** (). *Show the following:*
+**Exercise 4.6** (Thursday March 5). *Show the following:*
 
 1.  *If $A\models B$ and $B\models C$ then $A\models C$.*
 
@@ -547,7 +547,7 @@ entailments hold:*
 
 
 
-**Exercise 4.7** ().
+**Exercise 4.7** (Thursday March 9).
 
 1.  *Prove by induction on sentences that if $v$ and $u$ are two
     valuations that agree on the letters in $A$, then $v(A)=u(A)$.*

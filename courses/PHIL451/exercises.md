@@ -19,3 +19,9 @@ Exercises: 2.1-2.7, 3.2, 3.4.
 ## Week 4
 
 Finish chapter 3 and do exercises 3.11-3.18 for Tuesday Feb 17.
+
+## Week ??
+
+Read chapters 4 and 5. Exercises 4.3, 4.4, 5.1, 5.2, 5.8, 5.9 (you may want to wait until Tuesdays class for the latter two.
+
+Submit March 5th.
