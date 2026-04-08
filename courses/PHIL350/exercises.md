@@ -596,7 +596,7 @@ a sentence. Binary operations have an arity of two, unary have arity
 one, ternary have arity three, and so on.
 
 
-**Exercise 4.9** ().
+**Exercise 4.9** (April 14, submit as assignment 14).
 
 1.  *Make up your own unary truth functional connective. This involves
     making up a symbol for it, and saying what its truth table is. It
@@ -609,12 +609,12 @@ one, ternary have arity three, and so on.
 
 
 
-**Exercise 4.10** (). *For each of the connectives you
+**Exercise 4.10** (April 14, submit as assignment 14). *For each of the connectives you
 made up, try to define it in terms of $\wedge$, $\neg$ and $\vee$.*
 
 
 
-**Exercise 4.11** (). *Let $v_0$ be the truth assignment that makes every
+**Exercise 4.11** (April 14, submit as assignment 14). *Let $v_0$ be the truth assignment that makes every
 propositional letter true. Let $v$ be the extension of $v_0$ to
 sentences (see section 6).*
 
@@ -667,7 +667,7 @@ defining $C$ from $\neg$, $\wedge$ and $\vee$:
     define .
 
 
-**Exercise 4.13** (). *There exists two binary connectives,
+**Exercise 4.13** (April 14, submit as assignment 14). *There exists two binary connectives,
 $\uparrow$ and $\downarrow$, that are each truth-functionally complete
 all on their own (thus, for instance, every truth functional connective
 can be defined from just $\uparrow$. Attempt to find one of these?*
@@ -681,6 +681,8 @@ have a go anyway.*
 $B$ have the same truth value (i.e. it has T in the TT and FF part of
 the truth table, and F in the TF and FT parts). Show that
 $\{\neg, \leftrightarrow\}$ is not truth functionally complete.*
+
+
 
 
 # Soundness and completeness
@@ -741,7 +743,7 @@ If you can prove $B$ from the assumptions $A_1...A_n$ you write
 $A_1...A_n\vdash B$.
 
 
-**Exercise 5.1** (). *The following sentences are
+**Exercise 5.1** (April 16, submit as assignment 15). *The following sentences are
 instances of axioms A1-A3. For each sentence, say which axiom it is an
 instance of, and say what $A$, $B$ (and $C$ if applicable) refer to in
 that instance.*
@@ -754,7 +756,7 @@ that instance.*
 
 
 
-**Exercise 5.2** (). *Show the following*
+**Exercise 5.2** (April 16, submit as assignment 15). *Show the following*
 
 1.  *$B \vdash (A\to B)$*
 
@@ -777,7 +779,7 @@ An axiom system $S$ is sound when the following holds: whenever $A_1,\ldots, A_n
 An axiom system $S$ is complete when the following holds: whenever $A_1,\ldots, A_n\models B$, $A_1,\ldots, A_n \vdash_S B$
 
 
-**Exercise 5.4** (). *In this exercise you will
+**Exercise 5.4** (April 16, submit as assignment 15). *In this exercise you will
 create your own axiom system. It must be different than the ones we
 discussed in class on Thursday.*
 
@@ -794,7 +796,7 @@ discussed in class on Thursday.*
 
 
 
-**Exercise 5.5** (). *The axiom systems you provide
+**Exercise 5.5** (April 16, submit as assignment 15). *The axiom systems you provide
 for these questions must be different from the ones we discussed in
 class.*
 
