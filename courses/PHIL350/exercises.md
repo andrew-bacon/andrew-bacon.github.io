@@ -813,22 +813,25 @@ class.*
 
 
 
-**Exercise 5.6** (). *Assume that the system A1-A3 is
+**Exercise 5.6** (Due April 23. For those who have not presented: present on April 21st or 23rd). *Assume that the system A1-A3 is
 sound.*
 
-1.  *Show that there is no proof from A1-A3 of $P\wedge Q$ from $P$.
+1.  *Show similarly that you cannot prove $P\to Q$ from $P$. I.e.
+    $P\not\vdash P\to Q$*
     That is $P\not\vdash P\wedge Q$.*
 
-2.  *Show similarly that you cannot prove $P\to Q$ from $P$. I.e.
-    $P\not\vdash P\to Q$*
+2.  *Show that there is no proof from A1-A3 of $\neg((P\to Q) \to \neg (Q\to R))$ from $P, Q$.
+  That is $P, Q\not\vdash \neg((P\to Q) \to (Q\to P))$.*
 
 
 
-**Exercise 5.7**. *In this question you will prove the soundness of the
+
+
+**Exercise 5.7**. (Due April 23. For those who have not presented: present on April 21st or 23rd) *In this question you will prove the soundness of the
 axiom system A1-A3.*
 
-1.  *Using the formal inductive definition of a derivation on p13 --- in
-    which derivations are treated a certain sorts of sequences --- give
+1.  *Using the formal inductive definition of a derivation --- in
+    which derivations are treated as certain sorts of sequences --- give
     three examples of a derivation from the assumptions
     $P, (P\to Q), (Q\to R)$ in the axiom system A1-A3. It should have
     the form $(C:(B:(A:\epsilon)))$*
@@ -942,7 +945,7 @@ Proof is by induction on proofs. ◻
 
 
 
-**Exercise 5.8** (Practice questions). *Establish the following using
+**Exercise 5.8** ((Due April 23. For those who have not presented: present on April 21st or 23rd)). *Establish the following using
 the completeness theorem*
 
 1.  *$\vdash (P\to Q) \to ((P\to \neg Q) \to \neg P)$*
@@ -958,7 +961,7 @@ the completeness theorem*
 
 
 
-**Exercise 5.9** (Practice questions). *Determine whether the following
+**Exercise 5.9** ((Due April 23. For those who have not presented: present on April 21st or 23rd). *Determine whether the following
 arguments may be proven in the standard system (with axioms A1-A3). If
 can be, give the proof, if not show that there doesn't exist a proof by
 appealing to the soundness theorem.*
