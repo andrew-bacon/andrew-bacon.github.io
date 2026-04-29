@@ -26,7 +26,7 @@ Material will be drawn primarily from lectures and notes. The two books listed b
 
 ## Links
 
-| [dropbox](https://www.dropbox.com/scl/fo/314ciulshch6fohsbwsjl/ALGq5oAfcd9Y-lrxs6hh7HE?rlkey=50fbdbz9wzzqex3nr9se7f3f8&dl=0) | [signup sheet](https://docs.google.com/spreadsheets/d/1wBS1wHt6BXQcAODjO8jnl23bCghvA7EsuUoMQ8klgAA/edit?usp=sharing) | [notes and exercises](./exercises) 
+| [dropbox](https://www.dropbox.com/scl/fo/314ciulshch6fohsbwsjl/ALGq5oAfcd9Y-lrxs6hh7HE?rlkey=50fbdbz9wzzqex3nr9se7f3f8&dl=0) | [signup sheet](https://docs.google.com/spreadsheets/d/1wBS1wHt6BXQcAODjO8jnl23bCghvA7EsuUoMQ8klgAA/edit?usp=sharing) | [notes and exercises](./exercises) | [past exams](./past-exams)
 
 ## Course description
 
