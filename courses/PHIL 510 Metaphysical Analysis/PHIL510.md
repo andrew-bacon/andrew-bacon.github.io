@@ -4,7 +4,7 @@ src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLor
 https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 </head>
 
-# PHIL 510: Logic, Mathematics and Metaphysics
+# PHIL 510: Metaphysical Analysis
 
 ## Time and place
 
