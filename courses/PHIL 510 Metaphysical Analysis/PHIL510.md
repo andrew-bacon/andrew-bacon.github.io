@@ -54,22 +54,25 @@ I reserve the right to move these deadlines around depending on where we are in 
 
 - Participation: 
 	- Contribute to class discussion. Be prepared to answer questions if called upon, and to raise your hand if you do not understand something. You are collectively responsible for setting the pace of the class, and clarificatory questions. 5% 
-	- Students will prepare two 15 minute presentations over the course of the semester. The signup sheet for these presentations can be found [here](https://docs.google.com/spreadsheets/d/10DAJ2HGG18I3qAt6Rv3DHMP9vQDyHGQjuJmUtjGOOSg/edit?usp=sharing).  15%.
+	- Students will prepare one or two 15 minute presentations, with handouts, over the course of the semester. The signup sheet for these presentations can be found [here](https://docs.google.com/spreadsheets/d/10DAJ2HGG18I3qAt6Rv3DHMP9vQDyHGQjuJmUtjGOOSg/edit?usp=sharing).  15%.
 
 
 
 - Paper Project:
 
-	- Paper ideas x 2. 10% 
+	- Proposal. 10% 
 		
-		Present an idea for a paper project in class.
-		
-	- Proposal: 10%. 
+				Submit a detailed proposal of what you intend to do your final project on.
 	
-		Submit a detailed proposal of what you intend to do your final project on.
+	Presentation. 10%
+	
+		Present an idea for a paper project in class.
 
-	- Draft: 25%. Due April 23. 
-	- Final paper. 35% Due May 9.
+
+
+
+	- Draft: 25%. Due November 13. 
+	- Final paper. 35% Due December 7.
 
 
 
@@ -85,7 +88,7 @@ This is an early draft of the syllabus. Readings will be expanded on nearer the 
 
 - **Topic 1**. 
 
-	- Leibniz, *Primary Truths*.
+	- Leibniz, *On Contingency*. *Primary Truths*. 
 	- Hume, *An Enquiry Concerning Human Understanding.* selections
 	- van Cleve, *There are no necessary connections between distinct existences*.
 
@@ -98,6 +101,7 @@ This is an early draft of the syllabus. Readings will be expanded on nearer the 
 
 - **Topic 3**. 
 
+	- Kant, Introduction to the *Critique of Pure Reason*. B14–B16. B205, Selections. *Prolegomena to Any Future Metaphysics*, §2(c), Ak. 4:268–69
 	- Frege, *Foundations of Arithmetic*. selection.
 	- [...] 
 

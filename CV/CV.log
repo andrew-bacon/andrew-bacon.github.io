@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.16)  9 JAN 2026 17:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.16)  21 AUG 2026 16:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -981,7 +981,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 49.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 57.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 58.
  [1
 
 {C:/Users/abacon/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/aba
@@ -989,26 +989,20 @@ con/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/abacon
 /AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Us
 ers/abacon/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.
 enc}] [2] [3] [4] [5]
-Overfull \hbox (2.97948pt too wide) in paragraph at lines 234--234
+Overfull \hbox (2.97948pt too wide) in paragraph at lines 235--235
  []|[]\T1/lmss/m/n/10.95 (-20) Undergraduate
  []
 
 [6] [7] (CV.aux)
-
-Package rerunfilecheck Warning: File `CV.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `CV.out':
-(rerunfilecheck)             Before: F832732E8D5A1FB9F566FECB7EC144F6;1683
-(rerunfilecheck)             After:  E0048B5ED58A5DED7D6AE09C08930123;1739.
+Package rerunfilecheck Info: File `CV.out' has not changed.
+(rerunfilecheck)             Checksum: 22042D7B2AEDE56F9B72741E3679AC3C;1762.
  ) 
 Here is how much of TeX's memory you used:
- 26347 strings out of 476331
- 513251 string characters out of 5787293
+ 26351 strings out of 476331
+ 513297 string characters out of 5787293
  1894660 words of memory out of 5000000
  46163 multiletter control sequences out of 15000+600000
- 581036 words of font info for 146 fonts, out of 8000000 for 9000
+ 581273 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,13n,122p,1001b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/abacon/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome
@@ -1019,7 +1013,7 @@ fonts/type1/public/lm/lmss12.pfb><C:/Users/abacon/AppData/Local/Programs/MiKTeX
 X/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/abacon/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Users/abacon/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/lm/lmsso12.pfb>
-Output written on CV.pdf (7 pages, 194519 bytes).
+Output written on CV.pdf (7 pages, 194731 bytes).
 PDF statistics:
  151 PDF objects out of 1000 (max. 8388607)
  22 named destinations out of 1000 (max. 500000)
