@@ -27,7 +27,7 @@ In the second half of the semester we will discuss a book draft I am currently w
 
 ## Links
 
-| [dropbox](https://www.dropbox.com/scl/fo/mk58np4vx4cpdol8scff9/AObM-CpVLb5Dl-1IvHMgB4k?rlkey=2h0weynh45d2f1tvpe28hlxap&dl=0) | [signup sheet](https://docs.google.com/spreadsheets/d/1GfTexXCTgcf12xfj7RwC4kcszIyPDLrjV5h0RVyBXS0/edit?usp=sharing) | [guidelines for writing a paper proposal](./guidelines) |
+| [dropbox](https://www.dropbox.com/scl/fo/ckkpsy4z1utkoo2euzte8/AGCZCPL2SV6DWgL_QSUI0oc?rlkey=v7qaejs68n25o2a6pbhduvrfx&dl=0) | [signup sheet](https://docs.google.com/spreadsheets/d/1GfTexXCTgcf12xfj7RwC4kcszIyPDLrjV5h0RVyBXS0/edit?usp=sharing) | [guidelines for writing a paper proposal](./guidelines) |
 
 ## Course description
 
@@ -86,33 +86,40 @@ This is an early draft of the syllabus. Readings will be expanded on nearer the 
 	
 	- Introduction
 
+
 - **Topic 1**. 
+
+	- Aristotle, *Posterior Analytics* II.1–10 (esp. 3-10), *Topics* Topics I.5, I.8; VI.1, VI.4, VII.5
+	- Kit Fine. *Essence and Modality*. pp. 1–3 and 12–13.
+	- (Optional: David Charles, *Aristotle on Meaning and Essence*, ch. 8)
+	
+- **Topic 2**. 
 
 	- Leibniz, *On Contingency*. *Primary Truths*. 
 	- Hume, *An Enquiry Concerning Human Understanding.* selections
 	- van Cleve, *There are no necessary connections between distinct existences*.
 
 
-- **Topic 2** 
+- **Topic 3** 
 
 	- Bolzano, *Theory of Science*. Selections.
 	- *Bolzano's Philosophy of Grounding* eds. Roski and Schneider.
 
 
-- **Topic 3**. 
+- **Topic 4**. 
 
 	- Kant, Introduction to the *Critique of Pure Reason*. B14–B16. B205, Selections. *Prolegomena to Any Future Metaphysics*, §2(c), Ak. 4:268–69
 	- Frege, *Foundations of Arithmetic*. selection.
 	- [...] 
 
-- **Topic 4**. 
+- **Topic 5**. 
 
 	- Wittgenstein, *Tractatus Logico-Philosophicus* selections.
 	- Russell, *The Philosophy of Logical Atomism* selections.
 	- Ramsey, *Facts and propositions*.
 
 	
-- **Topic 5**. 
+- **Topic 6**. 
 
 	- Lewis, *New Work for a Theory of Universals*
 	- Sider, *Writing the Book of the World*
@@ -120,17 +127,17 @@ This is an early draft of the syllabus. Readings will be expanded on nearer the 
 	- Dorr, *To be F is to be G*.
 
 
-- **Topic 6**. 
+- **Topic 7**. 
 
 	- Fine, *Ontological Dependence*
 	- Fine, *Guide to Ground*.
 
-- **Topic 7**
+- **Topic 8**
 
 	- Stalnaker, *Varieties of supervenience*
 
 
-- **Topic 8**. 
+- **Topic 9**. 
 
 	- Bacon, *Minimal Foundations: A Modal theory of Metaphysical Analysis*
 
