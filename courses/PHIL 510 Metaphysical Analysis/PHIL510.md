@@ -95,14 +95,20 @@ This is an early draft of the syllabus. Readings will be expanded on nearer the 
 	
 - **Topic 2**. 
 
-	- Leibniz, *On Contingency*. *Primary Truths*. 
+	- Leibniz, *Primary Truths* (read first). *On Contingency*. 
+	- Further reading, *Substance and Individuation in Leibniz*. Cover and Hawthorne.
 	- Hume, *An Enquiry Concerning Human Understanding.* selections
 	- van Cleve, *There are no necessary connections between distinct existences*.
 
 
 - **Topic 3** 
 
-	- Bolzano, *Theory of Science*. Selections.
+	- Bolzano, *Theory of Science*. sections 
+		+ Objective vs linguistic entities of different types: section 19, pp. 20–21, and sections 48–50, pp. 61–65, 
+		+ The structure and individuation of propositions and other entities: sections 56–58, pp. 68–74, section 61, p. 77, section 91 no. 1 and section 92 no. 1, pp. 137–38, section 123, p. 172; sections 126–127, pp. 173ff.
+		+ Metaphysical substitutions, logical truth and propositional structure: sections 147–148, pp. 193–202, 
+		+ Definitions: sections 554–559.
+		+ Optional, Analyticity: section 197.
 	- *Bolzano's Philosophy of Grounding* eds. Roski and Schneider.
 
 
