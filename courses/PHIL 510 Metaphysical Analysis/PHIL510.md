@@ -103,7 +103,7 @@ This is an early draft of the syllabus. Readings will be expanded on nearer the 
 
 - **Topic 3** 
 
-	- Bolzano, *Theory of Science*. sections 
+	- Bolzano, *Theory of Science*. trans. George, Rolf.
 		+ Objective vs linguistic entities of different types: section 19, pp. 20–21, and sections 48–50, pp. 61–65, 
 		+ The structure and individuation of propositions and other entities: sections 56–58, pp. 68–74, section 61, p. 77, section 91 no. 1 and section 92 no. 1, pp. 137–38, section 123, p. 172; sections 126–127, pp. 173ff.
 		+ Metaphysical substitutions, logical truth and propositional structure: sections 147–148, pp. 193–202, 
