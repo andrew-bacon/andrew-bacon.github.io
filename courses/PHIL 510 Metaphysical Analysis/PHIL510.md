@@ -89,12 +89,8 @@ This is an early draft of the syllabus. Readings will be expanded on nearer the 
 
 - **Topic 1**. 
 
-	- Aristotle, 
-		+*Posterior Analytics* II.1–10 (esp. 3-10), 
-		+*Topics* Topics I.5, I.8; VI.1, VI.4, VII.5
-	- Kit Fine. 
-		+ *Essence and Modality*. pp. 1–3 and 12–13.
-		+ *The Logic of Essence*, *Semantics for the Logic of Essence*. (for second week). 
+	- Aristotle, *Posterior Analytics* II.1–10 (esp. 3-10), *Topics* Topics I.5, I.8; VI.1, VI.4, VII.5
+	- Kit Fine. *Essence and Modality*. pp. 1–3 and 12–13.
 	- (Optional: David Charles, *Aristotle on Meaning and Essence*, ch. 8)
 	
 - **Topic 2**. 
@@ -102,7 +98,7 @@ This is an early draft of the syllabus. Readings will be expanded on nearer the 
 	- Leibniz, (trans. Ariew and Garber)
 		+ *Primary Truths* (read first). 
 		+ *On Contingency*. 
-	- Further reading, *Substance and Individuation in Leibniz*, chapters 3 and 4. Cover and Hawthorne.
+	- Further reading, *Substance and Individuation in Leibniz*. Cover and Hawthorne.
 	- Hume, *An Enquiry Concerning Human Understanding.* selections
 	- van Cleve, *There are no necessary connections between distinct existences*.
 
@@ -115,7 +111,7 @@ This is an early draft of the syllabus. Readings will be expanded on nearer the 
 		+ Metaphysical substitutions, logical truth and propositional structure: sections 147–148, pp. 193–202, 
 		+ Definitions: sections 554–559.
 		+ Optional, Analyticity: section 197.
-	- Further reading: *Bolzano's Philosophy of Grounding* eds. Roski and Schneider.
+	- *Bolzano's Philosophy of Grounding* eds. Roski and Schneider.
 
 
 - **Topic 4**. 
@@ -127,13 +123,6 @@ This is an early draft of the syllabus. Readings will be expanded on nearer the 
 - **Topic 5**. 
 
 	- Wittgenstein, *Tractatus Logico-Philosophicus* selections.
-		+ 1.0–2.225; 3.2–3.25; 4.001–4.0312; 4.2–4.28; 5–5.41; 5.5–5.5262; 6–6.01
-	- Van Fraassen
-		+ https://basvanfraassensblog.home.blog
-			- An oblique look at propositions 1-2
-			- Tautological entailment 1-3 https://basvanfraassensblog.home.blog/2020/09/15/tautological-entailment-1/
-		+ Fritz and Bacon, "The Algebra of Logical Atomism".
-	
 	- Russell, *The Philosophy of Logical Atomism* selections.
 	- Ramsey, *Facts and propositions*.
 
@@ -158,7 +147,7 @@ This is an early draft of the syllabus. Readings will be expanded on nearer the 
 
 - **Topic 9**. 
 
-	- Bacon, *Minimal Foundations: A Logical theory of Metaphysical Analysis*
+	- Bacon, *Minimal Foundations: A Modal theory of Metaphysical Analysis*
 
 
 
