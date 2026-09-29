@@ -123,6 +123,10 @@ This is an early draft of the syllabus. Readings will be expanded on nearer the 
 - **Topic 5**. 
 
 	- Wittgenstein, *Tractatus Logico-Philosophicus* selections.
+		+ 1.0–2.225; 3.2–3.25; 4.001–4.0312; 4.2–4.28; 5–5.41; 5.5–5.5262; 6–6.01
+		+ Fritz and Bacon, *The Algebra of Logical Atomism*
+		+ van Fraassen, https://basvanfraassensblog.home.blog/
+			- Tautological entailments 1-3.
 	- Russell, *The Philosophy of Logical Atomism* selections.
 	- Ramsey, *Facts and propositions*.
 
