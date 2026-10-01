@@ -27,7 +27,7 @@ In the second half of the semester we will discuss a book draft I am currently w
 
 ## Links
 
-| [dropbox](https://www.dropbox.com/scl/fo/ckkpsy4z1utkoo2euzte8/AGCZCPL2SV6DWgL_QSUI0oc?rlkey=v7qaejs68n25o2a6pbhduvrfx&dl=0) | [signup sheet](https://docs.google.com/spreadsheets/d/1GfTexXCTgcf12xfj7RwC4kcszIyPDLrjV5h0RVyBXS0/edit?usp=sharing) | [guidelines for writing a paper proposal](./guidelines) |
+| [dropbox](https://www.dropbox.com/t/7U1g2MTz08j6Qtz2) | [signup sheet](https://docs.google.com/spreadsheets/d/1GfTexXCTgcf12xfj7RwC4kcszIyPDLrjV5h0RVyBXS0/edit?usp=sharing) | [guidelines for writing a paper proposal](./guidelines) |
 
 ## Course description
 
@@ -125,8 +125,13 @@ This is an early draft of the syllabus. Readings will be expanded on nearer the 
 	- Wittgenstein, *Tractatus Logico-Philosophicus* selections.
 		+ 1.0–2.225; 3.2–3.25; 4.001–4.0312; 4.2–4.28; 5–5.41; 5.5–5.5262; 6–6.01
 		+ Fritz and Bacon, *The Algebra of Logical Atomism*
+		+ In the dropbox folder: handout.pdf and my notes on object language principles about logical atomism "Andrew - Logical atomism in HOL.pdf".
 		+ van Fraassen, https://basvanfraassensblog.home.blog/
 			- Tautological entailments 1-3.
+		+ Optional: 
+			- Van Fraassen, B. 1969. “Facts and Tautological Entailments”. Journal of Philosophy, 66: 477-487.
+			- van Fraassen, Bas C. (1977). The only necessity is verbal necessity. Journal of Philosophy 74 (2):71-85.
+
 	- Russell, *The Philosophy of Logical Atomism* selections.
 	- Ramsey, *Facts and propositions*.
 
