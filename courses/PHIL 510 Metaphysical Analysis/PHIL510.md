@@ -27,7 +27,7 @@ In the second half of the semester we will discuss a book draft I am currently w
 
 ## Links
 
-| [dropbox](https://www.dropbox.com/t/7U1g2MTz08j6Qtz2) | [signup sheet](https://docs.google.com/spreadsheets/d/1GfTexXCTgcf12xfj7RwC4kcszIyPDLrjV5h0RVyBXS0/edit?usp=sharing) | [guidelines for writing a paper proposal](./guidelines) |
+| [dropbox](https://www.dropbox.com/scl/fo/ckkpsy4z1utkoo2euzte8/AGCZCPL2SV6DWgL_QSUI0oc?rlkey=v7qaejs68n25o2a6pbhduvrfx&dl=0) | [signup sheet](https://docs.google.com/spreadsheets/d/1GfTexXCTgcf12xfj7RwC4kcszIyPDLrjV5h0RVyBXS0/edit?usp=sharing) | [guidelines for writing a paper proposal](./guidelines) |
 
 ## Course description
 
