@@ -21,4 +21,9 @@ Without this clause, it follows that a constant (or any term that doesn't have $
 
 * Add clause 5: $\lambda x.P[N/M]=\lambda x.P$ when $x=M$.
 
+<!--
+## Theorem 8.2, 8.3 and exercise 8.18
 
+In the statements of these theorems, Rigid Comprehension should be $\Box$Rigid Comprehension.
+
+-->
