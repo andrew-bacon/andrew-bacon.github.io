@@ -1,0 +1,90 @@
+\documentclass{article}
+
+\title{Errata: A Philosophical Introduction To Higher-order Logics}
+
+
+
+\author{Andrew Bacon\thanks{Many thanks to Daniel Hoek and Rohan Sud for spotting several of the errors.}}
+
+%\usepackage{bookmark}
+\usepackage{setspace}
+\usepackage{amsthm}
+\usepackage{latexsym}
+\usepackage{amssymb}
+\usepackage{yfonts}
+\usepackage{graphicx}
+\usepackage{stmaryrd}
+\usepackage{verbatim}
+\usepackage{tikz}
+\usepackage[margin=1.5in]{geometry}
+\usepackage{listings}% http://ctan.org/pkg/listings
+\lstset{
+  basicstyle=\ttfamily,
+  mathescape
+}
+
+
+\DeclareSymbolFont{symbolsC}{U}{txsyc}{m}{n}
+\DeclareMathSymbol{\strictif}{\mathrel}{symbolsC}{74}
+\DeclareMathSymbol{\boxright}{\mathrel}{symbolsC}{128}
+
+%Theorem/Lemma/Definition/proof environment
+
+%\newenvironment{definition}[1][Definition]{\begin{trivlist}
+%\item[\hskip \labelsep {\bfseries #1}]}{\end{trivlist}}
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{definition}{Definition}[section]
+\newtheorem{conjecture}[section]{Conjecture}
+\newtheorem{example}{Example}[section]
+\newtheorem{remark}{Remark}[section]
+\newtheorem{lemma}[section]{Lemma}
+\newtheorem{corollary}[section]{Corollary}
+\newtheorem{proposition}[section]{Proposition}
+%Some nifty shortcuts
+\newcommand{\nlc}[1]{\overline{ #1}}
+
+\newcommand{\sem}[1]{\llbracket #1 \rrbracket}
+\newcommand{\te}[1]{\begin{textequation} #1 \end{textequation}}
+\newcommand{\bul}[1]{\begin{itemize} \item #1 \end{itemize}} 
+\newcommand{\tel}[2]{\begin{textequation} #1 \label{#2}\end{textequation}}
+
+% TextEquation environment
+\newenvironment{textequation}
+{\begin{equation}%
+\begin{minipage}[t]{0.8\linewidth}}%
+{\end{minipage}%
+\end{equation}%
+\ignorespacesafterend}
+
+%TextEquations: for multiple text equations.
+
+\newenvironment{textequations}
+{\begin{eqnarray}\begin{minipage}[t]{0.8\linewidth}}
+{\end{minipage}\end{eqnarray}\ignorespacesafterend} 
+
+\newcommand\nexteq{\end{minipage}\\\begin{minipage}[t]{0.8\linewidth}} 
+
+
+\bibliographystyle{plain}
+
+
+
+
+\begin{document}
+\maketitle
+
+p
+\begin{itemize}
+	\item[] The definition of $\beta$
+\end{itemize}
+
+\end{document}
+
+
+
+
+
+
+
+
