@@ -114,11 +114,14 @@ This is an early draft of the syllabus. Readings will be expanded on nearer the 
 	- *Bolzano's Philosophy of Grounding* eds. Roski and Schneider.
 
 
-- **Topic 4**. 
+- **Topic 4. Mathematical logicism**
 
-	- Kant, Introduction to the *Critique of Pure Reason*. B14–B16. B205, Selections. *Prolegomena to Any Future Metaphysics*, §2(c), Ak. 4:268–69
-	- Frege, *Foundations of Arithmetic*. selection.
-	- [...] 
+	- Kant, [*Prolegomena to Any Future Metaphysics*](https://www.gutenberg.org/files/52821/52821-h/52821-h.htm), §2(a–c) and §§6–11, especially §10. See also the *Critique of Pure Reason*, B14–B16 and B205.
+	- Frege, [*The Foundations of Arithmetic*](https://xenotheka.delbeke.arch.ethz.ch/frege-the-foundations-of-arithmetic/), §§3, 12–14, and 87–89, especially §88.
+	- Edward Zalta, [“Frege’s Theorem and Foundations for Arithmetic”](https://plato.stanford.edu/entries/frege-theorem/), §§3–4 and §5.4. These sections develop Frege’s definitions of cardinal number, predecessor, and natural number, and derive the principle of mathematical induction.
+	- Optional further reading
+		+ Frege, *The Foundations of Arithmetic*, §§68–83.
+		+ Richard Kimberly Heck, [“The Development of Arithmetic in Frege’s *Grundgesetze der Arithmetik*”](https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/development-of-arithmetic-in-freges-grundgesetze-der-arithmetik/117F7654AC792019E32DDFEBD3DFDA01).
 
 - **Topic 5**. 
 
