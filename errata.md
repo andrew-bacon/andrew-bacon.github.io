@@ -6,6 +6,10 @@ https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 
 # Errata for *A Philosophical Introduction to Higher-Order Logics*
 
+## Publication date
+
+The year of publication on the inside cover should read **2023**.
+
 ## Definition of "Free for x" (definition 3.7)
 
 
