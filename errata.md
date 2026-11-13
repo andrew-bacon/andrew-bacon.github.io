@@ -31,3 +31,7 @@ Without this clause, it follows that a constant (or any term that doesn't have $
 In the statements of these theorems, Rigid Comprehension should be $\Box$Rigid Comprehension.
 
 -->
+
+## Typos
+
+[Typos reported by readers](https://docs.google.com/spreadsheets/d/1wWO7Z9FIyvY9lpmq2_pW5tzXVhOvp91cejaGw6DdPhQ/edit?gid=0#gid=0)
